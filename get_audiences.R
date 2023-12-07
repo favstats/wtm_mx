@@ -20,7 +20,7 @@ write_lines(title_txt, "_site/_quarto.yml")
 
 if(Sys.info()[["sysname"]]=="Windows"){
   ### CHANGE ME WHEN LOCAL!
-  tf <- "7"
+  tf <- "30"
   print(paste0("TF: ", tf))
 }
 
