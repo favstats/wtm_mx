@@ -5,6 +5,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_activ
 1faf642f-2ea8-445b-a900-84a1720dafc5,Mujeres con Taboada,2023-11-06T05:07:30.914Z,8bc6af8a-ef9f-40ae-897a-6c6e4c0537e3,PAN,true,true,Mexico,mx,868322509904275,Mujeres con Taboada,Facebook
 2ea7e7aa-e93b-4861-9a59-87fcf3cc7196,Santiago Taboada,2023-02-07T15:05:02.913Z,669f245c-e7a9-4f6b-be1a-cd918a01cb8e,PAN,true,true,Mexico,mx,1570135889879076,Santiago Taboada,Facebook
 457a10e5-225f-43e3-ae4b-34eb1a3aa89d,PAN Ciudad de México,2023-02-25T10:53:48.106Z,154ff8a1-21bd-4ef4-8282-dcbd920c0242,PAN,true,true,Mexico,mx,338810152847727,PAN Ciudad de México,Facebook
+4adc12a5-daff-4814-8b93-1dfa17fe2b33,PAN  Querétaro,2023-10-13T05:07:52.292Z,123426d6-5f5e-42d6-8143-3bc7b925ac6c,PAN,true,true,Mexico,mx,131240556973754,PAN  Querétaro,Facebook
 5dc40938-02e9-4f3b-b297-009e05f1afe5,PAN Puebla,2023-03-15T10:53:48.238Z,3dc77a99-9dff-4fd5-9fd2-55799ae6851d,PAN,true,true,Mexico,mx,1676128462664093,PAN Puebla,Facebook
 67dbe016-34ce-4c18-93ca-24d2c54134fb,PAN CDE Aguascalientes,2023-03-01T10:53:37.892Z,6ea5563d-3723-4fdd-b46a-ab0b48c11e9c,PAN,true,true,Mexico,mx,356890567793288,PAN CDE Aguascalientes,Facebook
 6b7315ef-38e7-4d88-bbf9-a2ec9509a8c1,Todos con Taboada,2023-10-17T05:07:45.772Z,6bf22ee9-86b9-41d2-b9bd-002a6b7e8cde,PAN,true,true,Mexico,mx,139388962592146,Todos con Taboada,Facebook
@@ -23,45 +24,74 @@ d5b5f961-f522-40c6-972a-ec9db790675a,PAN Juárez,2023-04-08T10:53:35.416Z,7e1655
 e6a7d193-a183-43b8-b2f2-dbbf8a59695b,PAN Lerdo de Tejada,2023-03-08T14:43:15.839Z,f7d08515-e4d6-4ef9-9349-88781afbc593,PAN,true,true,Mexico,mx,110489930566649,PAN Lerdo de Tejada,Facebook
 ffe4177b-b786-45d5-9c54-9e0afdfdf63b,Xóchitl Gálvez Ruiz,2023-03-08T17:46:10.652Z,a96c96c1-9a19-4aa9-8425-c734d6fef9d7,PAN,true,true,Mexico,mx,100867376619769,Xóchitl Gálvez Ruiz,Facebook
 9804e0ab-f122-4804-a174-869c859a2060,PRI Durango,2023-02-07T15:05:04.939Z,8a0a75bd-a7bc-4d00-9834-66976846f07a,PRI,true,true,Mexico,mx,246251215410203,PRI Durango,Facebook
+008f10b5-4a56-4f25-934a-ae4837d77c30,Roberto Peña Secretario General PRD,2023-04-22T06:03:51.596Z,8e01b3a9-18e7-4eed-993f-16b8df6aa3d8,PRD,true,true,Mexico,mx,111138858608990,Roberto Peña Secretario General PRD,Facebook
+026be51e-768f-463c-b072-35ef3d7327ab,PRD Tulum,2023-11-28T06:18:03.047Z,fe80c134-08c8-46cb-8d75-0cb327ac6434,PRD,true,true,Mexico,mx,117366224801971,PRD Tulum,Facebook
 0448732b-c5c7-49e1-90bc-6fad7bcfa4ea,Partido de la Revolución Democrática PRD,2023-03-01T10:53:37.244Z,06c11aa5-5e25-4a74-99d6-e6aa65e283de,PRD,true,true,Mexico,mx,381985873573,Partido de la Revolución Democrática PRD,Facebook
+1d940de2-c11e-4f2e-9b97-d5de8ec2b399,PRD Malinalco,2023-11-04T05:07:37.032Z,22d0547f-1c8b-4731-bf82-fed846b3e696,PRD,true,true,Mexico,mx,102350661175751,PRD Malinalco,Facebook
+23339c13-e4ed-4913-8800-13d1943c36d6,PRD Ciudad de México,2023-04-27T06:53:25.690Z,b57ce2d2-3009-4c59-9b12-9c0eaa4aa47f,PRD,true,true,Mexico,mx,110037035281510,PRD Ciudad de México,Facebook
+58e832e3-aa06-43f7-9941-7e3f6c15979f,Juventudes de Izquierda PRD Centro,2023-12-06T05:07:40.622Z,b8dfe07d-9727-4879-ad1d-c5bf4e531ad8,PRD,true,true,Mexico,mx,107603110853047,Juventudes de Izquierda PRD Centro,Facebook
 5df99877-18bb-4ac6-a8ef-13d0be7052b8,PRD Michoacán,2023-02-07T15:05:04.726Z,ccc08082-a0a6-461c-a552-3b3b23256bbc,PRD,true,true,Mexico,mx,640044982685950,PRD Michoacán,Facebook
 61cf11b9-616c-4094-a915-b621a60c2f1b,PRD Tamaulipas,2023-02-07T15:05:02.707Z,8ed15ee6-11f7-4fe8-9194-788f13c34fe9,PRD,true,true,Mexico,mx,100246558338851,PRD Tamaulipas,Facebook
+700ba2b3-a229-4745-adc2-43cceeec6cc1,PRD Estado de México,2023-09-08T05:07:50.207Z,0d350ed9-0c1c-404c-b337-3aa3697fc5c9,PRD,true,true,Mexico,mx,306365536096057,PRD Estado de México,Facebook
 951b7514-b74f-4056-9def-57fb4f9a9bb9,PRD Oaxaca,2023-02-07T15:05:04.312Z,7580f679-d47c-4045-8445-c4c0909a037f,PRD,true,true,Mexico,mx,111651538178468,PRD Oaxaca,Facebook
+9c575054-3237-467c-8aaa-f8f161776c97,PRD Calimaya Comité Municipal,2023-04-17T08:06:56.959Z,5eb68d8d-54c3-482d-9bad-655fc2d9f0d4,PRD,true,true,Mexico,mx,112280553777570,PRD Calimaya Comité Municipal,Facebook
+b8349eac-4760-469d-bd60-41fdf0f5744f,PRD Morelos,2023-09-11T05:07:51.561Z,ffce2554-f4a1-4bbc-a387-f37a10f4727c,PRD,true,true,Mexico,mx,382898808922171,PRD Morelos,Facebook
+bc758612-1fc3-4e51-933c-225fa0bad454,Género y Política PRD Tv web,2023-03-11T10:53:44.084Z,30baa9e4-05bd-438a-84e6-88ba3b8ed57a,PRD,true,true,Mexico,mx,1906429816285166,Género y Política PRD Tv web,Facebook
 f20e3c6c-305e-471b-8bdb-aab75c7ef63d,Mary Telma Guajardo,2023-03-03T10:53:41.934Z,63730709-cb61-469a-8b44-488685886535,PRD,true,true,Mexico,mx,1648597332040019,Mary Telma Guajardo,Facebook
 f8b8648f-09c3-4d34-bb82-c41f30783f00,PRD-Coahuila,2023-02-13T10:53:49.357Z,663ee879-3145-42f7-8707-cf54b0fdc3b6,PRD,true,true,Mexico,mx,153486705119723,PRD-Coahuila,Facebook
 064563b9-1781-474a-bf51-4cc8c7c00cc3,Partido del Trabajo Zitlala Guerrero,2023-04-11T10:53:17.498Z,086ac71f-552c-4640-9050-27000420c660,PT,true,true,Mexico,mx,112256535161551,Partido del Trabajo Zitlala Guerrero,Facebook
 06a06b17-011a-401f-b110-3a7dcc59433c,PT Tenabo,2023-04-24T06:53:30.142Z,cb7bc43a-57cf-42ca-a8fa-2dd7faacdb92,PT,true,true,Mexico,mx,104767412348476,PT Tenabo,Facebook
 06b1361f-3aad-414d-9a3e-9f164fdc924d,Yazmín García Candidata a Diputación Dtto. 01 Coahuila,2023-04-21T06:53:37.338Z,27925930-90e0-4715-8944-ace8eb4b11fd,PT,true,true,Mexico,mx,103726446023727,Yazmín García Candidata a Diputación Dtto. 01 Coahuila,Facebook
+071b92dc-4f70-4c46-a228-2ba26197602e,PT Baja California Sur,2023-09-15T04:05:58.564Z,99548e0a-24bf-4f9c-a124-8780abdab628,PT,true,true,Mexico,mx,1810147899268622,PT Baja California Sur,Facebook
+0d1f886f-2a1f-449f-b1fb-75a19829f865,PT Hidalgo Oficial,2023-09-15T04:05:59.488Z,082591ba-aff7-430c-83e6-7525cd8c1ec7,PT,true,true,Mexico,mx,664269947301823,PT Hidalgo Oficial,Facebook
 1075c4c7-f793-436f-95e4-92af4eb0a081,Partido del Trabajo Nuevo León,2023-03-27T10:53:42.316Z,08b7dc2d-fc74-4dfc-8fe5-63a4187df8e0,PT,true,true,Mexico,mx,1831931877077110,Partido del Trabajo Nuevo León,Facebook
+126ccb40-6d9f-4148-9748-f707c164936c,Partido del Trabajo Tamaulipas,2023-09-15T04:05:59.485Z,2a078221-2d8f-4352-b012-b75fc02bf260,PT,true,true,Mexico,mx,964266947035385,Partido del Trabajo Tamaulipas,Facebook
 14e7f461-97d3-49d0-b7a9-813059c03453,PT Caborca,2023-02-07T15:05:04.814Z,d740fb68-3035-459a-a27e-b336ba09fdaf,PT,true,true,Mexico,mx,108818012092969,PT Caborca,Facebook
+15a8e4f7-e184-44d1-9014-eebabd644e05,Partido del trabajo Paracho,2023-10-31T05:23:48.819Z,ff6a9db5-a8f5-4105-87fe-07951b7fc217,PT,true,true,Mexico,mx,106725472416138,Partido del trabajo Paracho,Facebook
 1b1d7059-98cc-4dc1-a296-cd3fb81cabae,Partido del Trabajo Quintana Roo,2023-02-24T10:53:44.139Z,c399aa7c-eef9-4eba-b32f-b448f5b47860,PT,true,true,Mexico,mx,105059024923454,Partido del Trabajo Quintana Roo,Facebook
+1f6a8443-b49e-4e52-a4c1-cef9cf0bafb2,PT Puebla,2023-09-15T04:05:59.469Z,33d51678-293f-45a5-b4bc-2a7a6ce0641f,PT,true,true,Mexico,mx,944663648932826,PT Puebla,Facebook
 2fda14b6-aa4d-458f-87ff-a152c842478c,Chepina Flores,2023-04-29T06:53:23.746Z,0f95d44c-415f-430a-9f02-86312cb58607,PT,true,true,Mexico,mx,115077694871448,Chepina Flores,Facebook
 3176cbed-bd62-4daa-893f-b328ef8a128f,Partido del Trabajo Michoacán,2023-04-30T06:53:05.813Z,31c30d21-c117-4295-80aa-0a3174d6b182,PT,true,true,Mexico,mx,445959782175203,Partido del Trabajo Michoacán,Facebook
+33ea663e-0361-4059-99b7-183b6ecf5229,Partido Del Trabajo CDMX,2023-09-15T04:05:58.481Z,35e57928-02f4-43b6-8328-60028c90f16a,PT,true,true,Mexico,mx,107607818513380,Partido Del Trabajo CDMX,Facebook
 35dbe2d8-2904-4716-8316-9e4907c6e9d4,Partido del Trabajo Zacatecas,2023-03-03T10:53:41.129Z,5fbad4b3-94cc-4b58-b85b-44b8c4db9054,PT,true,true,Mexico,mx,1559213997687989,Partido del Trabajo Zacatecas,Facebook
+39ff6611-161c-4b7d-87d2-a33037a871f5,PT Sinaloa,2023-09-15T04:05:59.447Z,c8dfad1d-e524-422b-959f-81077aaf10c8,PT,true,true,Mexico,mx,101345828636162,PT Sinaloa,Facebook
+400bf2bc-a9ed-4c9b-bdbb-8cd9f5f7d1ef,Yolanda Palacios Candidata Dtto 13,2023-10-31T05:23:48.394Z,c0e40cc8-c293-438c-8e2d-19c8d7c201f0,PT,true,true,Mexico,mx,111068385321408,Yolanda Palacios Candidata Dtto 13,Facebook
 469f854a-588d-4be3-9d08-ed83cc112d44,PT Hopelchén,2023-04-28T06:53:18.855Z,1c911a51-7cbe-4385-8b83-45abbd21c553,PT,true,true,Mexico,mx,158734694822818,PT Hopelchén,Facebook
 5375fbdf-11ae-414b-907d-acefcc695702,Iris de Hoyos,2023-04-21T06:53:37.389Z,a6691a6c-d350-4652-8c0a-22c78fa4d877,PT,true,true,Mexico,mx,106982785695756,Iris de Hoyos,Facebook
 54a54061-f653-4fc7-a49e-bc7a5126ae74,Partido del Trabajo Chiapas,2023-03-19T10:53:28.164Z,0902028f-c874-47ea-9ab5-d64f845e6d30,PT,true,true,Mexico,mx,101878228730002,Partido del Trabajo Chiapas,Facebook
 5a3fbca0-e6a1-4807-bbf8-6138faf09d27,Sarahi de Leon,2023-04-23T06:53:03.046Z,ef226cc4-cccd-4643-a94b-8009c88148db,PT,true,true,Mexico,mx,105752909164833,Sarahi de Leon,Facebook
 6232a61b-9141-4050-89d7-5fbb0074113f,PT Guanajuato,2023-03-08T20:05:11.701Z,a1580ff7-a2f4-4a8c-8f70-13d2b5ef24fd,PT,true,true,Mexico,mx,1129268023807540,PT Guanajuato,Facebook
 687062fb-4f8b-4433-8397-0a08899849f3,Partido del Trabajo en la Cámara de Senadores,2023-03-08T20:05:12.262Z,801b305b-88ed-4e9d-8a71-ea4de7dd7e1a,PT,true,true,Mexico,mx,573621319739750,Partido del Trabajo en la Cámara de Senadores,Facebook
+730c817b-c6d6-4a2d-a406-cb1c4a970b0b,PT Yucatán,2023-09-15T04:05:59.443Z,6342f73f-3566-4d8d-a6e3-0865c68e2884,PT,true,true,Mexico,mx,858416494327794,PT Yucatán,Facebook
 733e449a-3fe5-4c67-8e29-657f666fc243,PT Morelos,2023-04-14T08:48:46.859Z,aaef285c-cad1-45d8-95c5-6965fb5da689,PT,true,true,Mexico,mx,253884044735368,PT Morelos,Facebook
 8432f46a-3419-485a-98bb-6c11895766ff,Arturo Gomez Rodriguez,2023-04-29T06:53:23.890Z,b4b4b174-7f2e-4200-9d4e-c0215a02ea0f,PT,true,true,Mexico,mx,474895786671922,Arturo Gomez Rodriguez,Facebook
 845800c4-df95-4dea-aa09-3ab7ad44bb68,Partido del Trabajo México,2023-02-07T15:05:02.919Z,442227b7-1355-440e-b206-366f4bb59753,PT,true,true,Mexico,mx,239726076054918,Partido del Trabajo México,Facebook
 88cd32e2-63a6-4e2b-ae92-3ffe97d1e4ff,PT Tlaxcala,2023-04-09T10:53:30.755Z,b7a401d4-65d3-4a0e-9bec-4759c74697be,PT,true,true,Mexico,mx,239748533039750,PT Tlaxcala,Facebook
 8c73cbdd-e562-4c55-94c3-e59f86c91498,PT Veracruz,2023-02-07T15:05:04.963Z,1955104c-c2c7-45b0-b622-ddb7e2b0b5aa,PT,true,true,Mexico,mx,600353183364238,PT Veracruz,Facebook
 8d553277-fbed-4904-8497-898b5753e1bf,PT Jalisco,2023-02-07T15:05:04.646Z,971a5a33-2607-4cdd-958d-c49988e2f455,PT,true,true,Mexico,mx,1465561517020740,PT Jalisco,Facebook
+9ca8d533-f6f0-4e15-96ca-e7f1e5372c51,Partido del Trabajo Querétaro Estatal,2023-09-15T04:05:44.700Z,2911531f-f9a6-44c7-8fbe-1f27c693b8d6,PT,true,true,Mexico,mx,107308034009698,Partido del Trabajo Querétaro Estatal,Facebook
+a587bae3-a6dc-40af-8e5a-9c9f78660b52,PT Estado de México,2023-09-15T04:06:27.296Z,db9cc168-ef4f-435f-8665-09b450bd68af,PT,true,true,Mexico,mx,394910241150524,PT Estado de México,Facebook
 b2c27611-abf4-4da8-9c50-ae9bf7b238a9,Valeria Flores,2023-04-21T06:53:37.447Z,02c48882-8eff-4603-bffc-4feb84a46e74,PT,true,true,Mexico,mx,109329305396368,Valeria Flores,Facebook
 b5a5d0f4-693b-4764-98ea-da31abba4612,PTCampeche Municipal Oficial,2023-04-25T06:53:14.366Z,28a203db-e2cf-4f79-921a-876f615e1422,PT,true,true,Mexico,mx,105135655632036,PTCampeche Municipal Oficial,Facebook
 bc830eae-320a-415e-b4ba-0d205a5c3d6d,Yolanda Palacios C,2023-04-29T06:53:23.903Z,8ebd09ef-5155-4431-9c9f-4908fc28ffb9,PT,true,true,Mexico,mx,103111452764294,Yolanda Palacios C,Facebook
+c1950752-f96e-49e0-ba70-f126f55a87b1,"Magda Flores “La Profe"" Candidata PT",2023-10-31T05:23:47.835Z,d5611059-27b0-489d-acf0-4e0c7375aec3,PT,true,true,Mexico,mx,115758958142788,"Magda Flores “La Profe"" Candidata PT",Facebook
+c3effe04-d45d-426f-a2e5-a9478c557498,PT Oaxaca,2023-09-15T04:06:07.312Z,3eb7bab2-c24e-4c38-ac28-9231803230f5,PT,true,true,Mexico,mx,1451173481877627,PT Oaxaca,Facebook
 c7b23a87-9ee0-4286-92a8-53a0efafd3bd,PARTIDO DEL TRABAJO ENSENADA,2023-03-08T15:51:59.695Z,3fd1f546-72f0-47e7-a36a-55d69f1290e5,PT,true,true,Mexico,mx,152877984781441,PARTIDO DEL TRABAJO ENSENADA,Facebook
 cd7885bf-005c-4b2f-8430-619fc33e5f15,Dr. Jesus Zcruz,2023-04-28T06:53:17.036Z,47bf7daf-c324-4870-ab8c-ad4f1d052e61,PT,true,true,Mexico,mx,101001474848545,Dr. Jesus Zcruz,Facebook
+cfdb0d6b-61b9-4d81-93a8-890805654092,Partido del Trabajo Colima,2023-09-15T04:05:40.325Z,e86b8760-141f-4e64-a9c0-baeeebd98d97,PT,true,true,Mexico,mx,751699828237221,Partido del Trabajo Colima,Facebook
 da2137ac-d1fd-49ce-8d46-a017a2431dfb,PT Coahuila,2023-02-07T15:05:04.843Z,7fad9636-74d8-4641-884b-a0c250bff691,PT,true,true,Mexico,mx,194020227388552,PT Coahuila,Facebook
 dcc9fef0-36d3-4d17-a57b-529ff48510bb,Memo Felan,2023-04-23T06:53:02.884Z,b6bce9d3-62ed-4891-b1fa-3751fa36ce19,PT,true,true,Mexico,mx,107170742354299,Memo Felan,Facebook
+dfd55703-aee4-449b-a38d-3f75a16bef13,Partido del Trabajo Guerrero,2023-09-15T04:06:07.369Z,5dfed5db-b3ab-4d60-8c77-fa211ef19f74,PT,true,true,Mexico,mx,2459794167586440,Partido del Trabajo Guerrero,Facebook
 e5747322-b8de-4618-acbb-a89751c13285,PT Hecelchakán,2023-04-21T06:53:38.040Z,5c8c5ad7-93c2-4fd3-b658-421a85d98e23,PT,true,true,Mexico,mx,107565501987392,PT Hecelchakán,Facebook
 e7584844-9776-4031-aa37-5349bfd8a8df,PT Nayarit,2023-02-07T15:05:04.441Z,c240f3b9-cd66-47d0-bcca-1f205f7b5ba6,PT,true,true,Mexico,mx,265521856950021,PT Nayarit,Facebook
 e89d1cb0-d7dc-42d2-8609-920dac119988,Candidata Diputada Miriam Saldaña,2023-04-24T06:53:29.755Z,bfe4ed52-4db7-4e83-b31d-ce6c528670b2,PT,true,true,Mexico,mx,104882612583865,Candidata Diputada Miriam Saldaña,Facebook
+ed7d8b3b-2bd8-4a61-b664-0caa141530d0,"Partido del Trabajo, San Luis Potosí",2023-09-15T04:05:59.460Z,49ed3272-7304-4367-8553-8bd1af4668ff,PT,true,true,Mexico,mx,209666139498773,"Partido del Trabajo, San Luis Potosí",Facebook
+f24effac-2407-4256-a8e6-61d6ddae28e1,Partido del Trabajo Tabasco,2023-09-15T04:06:07.200Z,7cd83647-5baf-47a6-9baf-2dcdcdc597f3,PT,true,true,Mexico,mx,703286489702146,Partido del Trabajo Tabasco,Facebook
 f2ce7b0b-87e9-47ba-8bd4-2f390397cfa2,Toño Wislar,2023-04-30T06:53:06.559Z,7f27cb5f-a769-438c-ae4d-c12ecef97be9,PT,true,true,Mexico,mx,103751705955194,Toño Wislar,Facebook
+f3383d57-abc5-4786-bb1a-4df7c1e91896,Partido Del Trabajo Durango,2023-09-22T05:07:35.741Z,4123f077-72f3-4fc5-951c-73739e67bf20,PT,true,true,Mexico,mx,134032699787463,Partido Del Trabajo Durango,Facebook
+f99b6604-8866-4bc0-a2ae-6cd8a89e44f2,PT Sonora,2023-09-15T04:05:42.718Z,8fea89a3-da5a-41e1-b9ef-397d99f06179,PT,true,true,Mexico,mx,891885224216379,PT Sonora,Facebook
 f9f7dcee-edc9-4a2b-bcaa-16f2de7bb817,PT Campeche Oficial,2023-03-10T10:53:32.272Z,5b509010-4a6b-4879-9516-16ceb01b5fb4,PT,true,true,Mexico,mx,707277452803584,PT Campeche Oficial,Facebook
+fef36c81-8203-4c4d-9eea-7de9bf3ae0e5,Partido del Trabajo Ags,2023-09-15T04:05:44.259Z,a79ca6c4-3588-4e3b-a180-61816335cdb9,PT,true,true,Mexico,mx,339745856789037,Partido del Trabajo Ags,Facebook
 208e5308-8091-4217-8e88-b2757f353f5c,Partido Verde Ecologista de México Apaxco,2023-04-28T06:53:18.854Z,0f698fca-e202-465d-a4ea-3998e9678ec6,PVE,true,true,Mexico,mx,114334464915144,Partido Verde Ecologista de México Apaxco,Facebook
 3f48d8d2-b3fa-431a-91da-8c51cd89860a,Partido Verde Guerrero,2023-02-07T15:05:03.570Z,f289b81e-6fbf-476c-b15d-87153811dbbd,PVE,true,true,Mexico,mx,631195260345898,Partido Verde Guerrero,Facebook
 4348b6f7-945c-4d2a-9940-8ab4d890e333,"Partido Verde Ecologista Tuxpan, Veracruz",2023-03-22T10:53:19.342Z,b23954e5-7350-434c-8a04-d93f76285a22,PVE,true,true,Mexico,mx,100270259551306,"Partido Verde Ecologista Tuxpan, Veracruz",Facebook
