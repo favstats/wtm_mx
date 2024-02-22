@@ -1,150 +1,259 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
-006a2cf7-e3a4-471e-9d55-882859c0f76f,PAN Baja California Sur,2023-02-12T10:53:31.876Z,fb44ab08-67e5-4a6b-904c-a43db57a0fe6,PAN,Mexico,mx,200425670023135,PAN Baja California Sur,Facebook
-0683f510-c553-496e-b87a-23902b293ada,PAN Jalisco,2023-03-12T10:53:39.832Z,983d0109-1de2-4f77-a6d8-275a2f7ec6c5,PAN,Mexico,mx,139327219471161,PAN Jalisco,Facebook
-14d6923f-c7a7-4aed-949f-d43e86ed198a,Comité Directivo Estatal del PAN Chihuahua,2023-02-08T05:55:48.716Z,d78c75c3-cd16-4673-b7be-5e034855ba9f,PAN,Mexico,mx,449319475244963,Comité Directivo Estatal del PAN Chihuahua,Facebook
-1faf642f-2ea8-445b-a900-84a1720dafc5,Mujeres con Taboada,2023-11-06T05:07:30.914Z,8bc6af8a-ef9f-40ae-897a-6c6e4c0537e3,PAN,Mexico,mx,868322509904275,Mujeres con Taboada,Facebook
-2ea7e7aa-e93b-4861-9a59-87fcf3cc7196,Santiago Taboada,2023-02-07T15:05:02.913Z,669f245c-e7a9-4f6b-be1a-cd918a01cb8e,PAN,Mexico,mx,1570135889879076,Santiago Taboada,Facebook
-457a10e5-225f-43e3-ae4b-34eb1a3aa89d,PAN Ciudad de México,2023-02-25T10:53:48.106Z,154ff8a1-21bd-4ef4-8282-dcbd920c0242,PAN,Mexico,mx,338810152847727,PAN Ciudad de México,Facebook
-4adc12a5-daff-4814-8b93-1dfa17fe2b33,PAN  Querétaro,2023-10-13T05:07:52.292Z,123426d6-5f5e-42d6-8143-3bc7b925ac6c,PAN,Mexico,mx,131240556973754,PAN  Querétaro,Facebook
-5dc40938-02e9-4f3b-b297-009e05f1afe5,PAN Puebla,2023-03-15T10:53:48.238Z,3dc77a99-9dff-4fd5-9fd2-55799ae6851d,PAN,Mexico,mx,1676128462664093,PAN Puebla,Facebook
+da2137ac-d1fd-49ce-8d46-a017a2431dfb,PT Coahuila,2023-02-07T15:05:04.843Z,7fad9636-74d8-4641-884b-a0c250bff691,PT,Mexico,mx,194020227388552,PT Coahuila,Facebook
+838c1356-1c50-4657-9df6-2545a08bdca4,Partido Verde Ciudad Juárez,2023-02-07T15:05:04.665Z,293209b0-71d1-46a8-997a-783f802def5b,PVE,Mexico,mx,101069159489872,Partido Verde Ciudad Juárez,Facebook
+b6eac8d6-83f7-4de2-8355-a847828066e8,Pepe Couttolenc,2023-02-07T15:05:02.324Z,f6fba879-596b-4980-bb1b-46ecd921a796,PVE,Mexico,mx,102863700463398,Pepe Couttolenc,Facebook
+1b1d7059-98cc-4dc1-a296-cd3fb81cabae,Partido del Trabajo Quintana Roo,2023-02-24T10:53:44.139Z,c399aa7c-eef9-4eba-b32f-b448f5b47860,PT,Mexico,mx,105059024923454,Partido del Trabajo Quintana Roo,Facebook
+f8b8648f-09c3-4d34-bb82-c41f30783f00,PRD-Coahuila,2023-02-13T10:53:49.357Z,663ee879-3145-42f7-8707-cf54b0fdc3b6,PRD,Mexico,mx,153486705119723,PRD-Coahuila,Facebook
+951b7514-b74f-4056-9def-57fb4f9a9bb9,PRD Oaxaca,2023-02-07T15:05:04.312Z,7580f679-d47c-4045-8445-c4c0909a037f,PRD,Mexico,mx,111651538178468,PRD Oaxaca,Facebook
+8d553277-fbed-4904-8497-898b5753e1bf,PT Jalisco,2023-02-07T15:05:04.646Z,971a5a33-2607-4cdd-958d-c49988e2f455,PT,Mexico,mx,1465561517020740,PT Jalisco,Facebook
+e7584844-9776-4031-aa37-5349bfd8a8df,PT Nayarit,2023-02-07T15:05:04.441Z,c240f3b9-cd66-47d0-bcca-1f205f7b5ba6,PT,Mexico,mx,265521856950021,PT Nayarit,Facebook
+14e7f461-97d3-49d0-b7a9-813059c03453,PT Caborca,2023-02-07T15:05:04.814Z,d740fb68-3035-459a-a27e-b336ba09fdaf,PT,Mexico,mx,108818012092969,PT Caborca,Facebook
+8c73cbdd-e562-4c55-94c3-e59f86c91498,PT Veracruz,2023-02-07T15:05:04.963Z,1955104c-c2c7-45b0-b622-ddb7e2b0b5aa,PT,Mexico,mx,600353183364238,PT Veracruz,Facebook
+4818f568-2cc9-482e-a4e6-9c8fbe04ea6c,Partido Verde Tampico,2023-03-01T10:53:37.762Z,0f05a042-7556-494c-b95d-58078787a970,PVE,Mexico,mx,109123391627104,Partido Verde Tampico,Facebook
+3f48d8d2-b3fa-431a-91da-8c51cd89860a,Partido Verde Guerrero,2023-02-07T15:05:03.570Z,f289b81e-6fbf-476c-b15d-87153811dbbd,PVE,Mexico,mx,631195260345898,Partido Verde Guerrero,Facebook
+845800c4-df95-4dea-aa09-3ab7ad44bb68,Partido del Trabajo México,2023-02-07T15:05:02.919Z,442227b7-1355-440e-b206-366f4bb59753,PT,Mexico,mx,239726076054918,Partido del Trabajo México,Facebook
+0448732b-c5c7-49e1-90bc-6fad7bcfa4ea,Partido de la Revolución Democrática PRD,2023-03-01T10:53:37.244Z,06c11aa5-5e25-4a74-99d6-e6aa65e283de,PRD,Mexico,mx,381985873573,Partido de la Revolución Democrática PRD,Facebook
+61cf11b9-616c-4094-a915-b621a60c2f1b,PRD Tamaulipas,2023-02-07T15:05:02.707Z,8ed15ee6-11f7-4fe8-9194-788f13c34fe9,PRD,Mexico,mx,100246558338851,PRD Tamaulipas,Facebook
+9804e0ab-f122-4804-a174-869c859a2060,PRI Durango,2023-02-07T15:05:04.939Z,8a0a75bd-a7bc-4d00-9834-66976846f07a,PRI,Mexico,mx,246251215410203,PRI Durango,Facebook
+4a567609-f9ca-4719-8d65-f04871fa8a02,Movimiento Ciudadano Sonora,2023-02-26T10:53:47.921Z,21f75344-9443-4634-9890-dcce536ba713,MC,Mexico,mx,479303628822906,Movimiento Ciudadano Sonora,Facebook
+60cb2452-a9d9-49ac-8425-7b1a4397250b,Movimiento Ciudadano Morelia,2023-02-20T10:53:41.976Z,bb703717-ed7c-44ca-89f5-28ae306dcbf3,MC,Mexico,mx,104616558818919,Movimiento Ciudadano Morelia,Facebook
+aa866c80-2fbd-4ae6-9f81-5db00b29fa9c,Movimiento Ciudadano Nuevo León,2023-02-14T10:53:42.928Z,da53c8ec-af11-456c-839d-e792ee0a9976,MC,Mexico,mx,178625645626125,Movimiento Ciudadano Nuevo León,Facebook
+35dbe2d8-2904-4716-8316-9e4907c6e9d4,Partido del Trabajo Zacatecas,2023-03-03T10:53:41.129Z,5fbad4b3-94cc-4b58-b85b-44b8c4db9054,PT,Mexico,mx,1559213997687989,Partido del Trabajo Zacatecas,Facebook
+f20e3c6c-305e-471b-8bdb-aab75c7ef63d,Mary Telma Guajardo,2023-03-03T10:53:41.934Z,63730709-cb61-469a-8b44-488685886535,PRD,Mexico,mx,1648597332040019,Mary Telma Guajardo,Facebook
+5df99877-18bb-4ac6-a8ef-13d0be7052b8,PRD Michoacán,2023-02-07T15:05:04.726Z,ccc08082-a0a6-461c-a552-3b3b23256bbc,PRD,Mexico,mx,640044982685950,PRD Michoacán,Facebook
+4a0fcb79-4a73-4611-9e8e-557c949b729c,Movimiento Ciudadano Yucatán,2023-03-05T10:53:49.414Z,13b0b4a6-7e04-47c0-8db8-2e18ce4e57f7,MC,Mexico,mx,1374560609492228,Movimiento Ciudadano Yucatán,Facebook
+fe8ff74f-bde7-48ef-8ef5-1f47e2b6f7f9,Movimiento Ciudadano Chiapas,2023-02-19T10:53:54.554Z,7bc407e9-a484-41e9-8832-bf7851c3d022,MC,Mexico,mx,160576987435947,Movimiento Ciudadano Chiapas,Facebook
+7477c5b3-1449-4321-ab00-f71efd534570,Movimiento Ciudadano Linares,2023-02-14T10:53:42.374Z,959df8b4-be29-402d-a822-f24b8d479919,MC,Mexico,mx,101772835825514,Movimiento Ciudadano Linares,Facebook
+325b5ada-95a5-4cfb-9f3f-a53ef3ffcfde,Movimiento Ciudadano ARANDAS,2023-02-07T15:05:04.952Z,54e8685b-aa24-40a8-80a6-3fca4432632b,MC,Mexico,mx,1140370492701453,Movimiento Ciudadano ARANDAS,Facebook
+81172ef4-8175-4af9-9aa0-8ce0dc6d1c07,Movimiento Ciudadano Santa Catarina,2023-02-07T15:05:03.051Z,fe1118a6-60c0-4d7c-8f75-94ecbf5cccaa,MC,Mexico,mx,570047920128627,Movimiento Ciudadano Santa Catarina,Facebook
+e49d6cf8-d8e2-4b28-8666-1d1474770789,Movimiento Ciudadano Coatzacoalcos,2023-02-13T10:53:49.216Z,c31ea629-2b8c-42ef-84c7-678ca11b317e,MC,Mexico,mx,179269592856683,Movimiento Ciudadano Coatzacoalcos,Facebook
+d360af88-b74e-4168-9f32-bd63348aa37b,Movimiento Ciudadano Colima,2023-02-07T15:05:05.013Z,49fe5cf8-c09c-40fc-8f8e-7aea085610ab,MC,Mexico,mx,651805858170081,Movimiento Ciudadano Colima,Facebook
+21af4229-f79e-452a-8c80-f29ca4d5d433,Movimiento Ciudadano Guanajuato,2023-02-07T15:05:03.499Z,377481fa-f26a-4c75-86d2-83fce835d8f1,MC,Mexico,mx,646954005425552,Movimiento Ciudadano Guanajuato,Facebook
+8e256d67-5ba2-419b-992f-86f20b2f2dda,Movimiento Ciudadano Jalisco,2023-02-07T15:05:04.483Z,5901d301-6b6f-43a7-b634-6e6d3c5ef2ce,MC,Mexico,mx,269877666449337,Movimiento Ciudadano Jalisco,Facebook
+0513db35-07e4-47a9-b9e7-83da2e254fe6,Movimiento Ciudadano Camargo,2023-02-09T06:28:08.986Z,be274216-01b3-4eba-8d65-cf1c0ba74657,MC,Mexico,mx,108105414956546,Movimiento Ciudadano Camargo,Facebook
+1556d898-57c4-4d86-ad8c-f44cb21a3ca3,Senadores Ciudadanos,2023-02-07T15:05:04.878Z,adb827eb-5e54-4387-b0b2-19f254f61e87,MC,Mexico,mx,2091732304477564,Senadores Ciudadanos,Facebook
+438aee79-b424-4fa8-8c48-aec737cd0a27,Movimiento Ciudadano En Tultitlan,2023-02-12T10:53:31.816Z,9e9ca57c-9bd5-4097-b82d-5e03ce427a7d,MC,Mexico,mx,935282359836644,Movimiento Ciudadano En Tultitlan,Facebook
+ebe36222-f342-411e-befd-894a57dee566,"Movimiento Ciudadano Torreón, Coahuila",2023-02-07T15:05:04.206Z,493c9df7-a539-46e1-ae74-db72a4f08dab,MC,Mexico,mx,105384605716867,"Movimiento Ciudadano Torreón, Coahuila",Facebook
+2305c722-05c2-4515-8fb7-140b0f703c9e,Movimiento Ciudadano Valle De Bravo,2023-02-07T15:05:04.380Z,9684ef09-026b-491b-9d48-521e42c379c7,MC,Mexico,mx,110685781750190,Movimiento Ciudadano Valle De Bravo,Facebook
+5355376a-4d58-497b-97b0-f3799b5e079e,Movimiento Ciudadano Jocotepec,2023-02-07T15:05:04.372Z,0977dec7-d171-48dc-9543-12494e8fc7ad,MC,Mexico,mx,112127531786587,Movimiento Ciudadano Jocotepec,Facebook
+3e9636a8-b491-43c4-849b-84c0bd96b018,Movimiento Ciudadano,2023-02-07T15:05:02.254Z,09a06c1d-bd46-467c-a92c-ade30ab6ddc8,MC,Mexico,mx,118921468203786,Movimiento Ciudadano,Facebook
+b5274461-1db7-47f2-ad54-56784dc84992,Movimiento Ciudadano Estado de México,2023-02-07T15:05:02.376Z,3908590e-16f4-499a-9bbe-19cea80ed159,MC,Mexico,mx,341678115934136,Movimiento Ciudadano Estado de México,Facebook
 67dbe016-34ce-4c18-93ca-24d2c54134fb,PAN CDE Aguascalientes,2023-03-01T10:53:37.892Z,6ea5563d-3723-4fdd-b46a-ab0b48c11e9c,PAN,Mexico,mx,356890567793288,PAN CDE Aguascalientes,Facebook
-6b7315ef-38e7-4d88-bbf9-a2ec9509a8c1,Todos con Taboada,2023-10-17T05:07:45.772Z,6bf22ee9-86b9-41d2-b9bd-002a6b7e8cde,PAN,Mexico,mx,139388962592146,Todos con Taboada,Facebook
-72b6de6c-df35-459d-87de-5a5af35a7da5,PAN Valladolid,2023-03-09T10:53:44.567Z,09608a2e-2bb5-474d-accf-09e7b1549d38,PAN,Mexico,mx,982968625195665,PAN Valladolid,Facebook
-864bc6d2-22b1-44da-a9bd-72bb0425a292,PAN Santa Catarina,2023-02-19T10:53:53.827Z,e12c58be-b191-405f-8212-b69634c0584f,PAN,Mexico,mx,438264206323038,PAN Santa Catarina,Facebook
-8786e986-853d-4bb0-84fd-ba4486ad2c77,Partido Acción Nacional,2023-02-07T15:05:03.360Z,a4816327-f4b5-44b3-a7ac-01b4cef0d3dc,PAN,Mexico,mx,108819392526809,Partido Acción Nacional,Facebook
-9a074d25-0f56-4fe1-b61c-25d20f08551c,Laura Rangel,2023-03-12T10:53:40.881Z,ae886309-5798-4d47-97ee-c399688d764d,PAN,Mexico,mx,1443435395948711,Laura Rangel,Facebook
-9c3afe6c-ade6-485c-a0b0-ac11de32a0b5,PAN Estado de México,2023-04-22T06:03:50.695Z,39f947f6-5d11-46dd-86fe-066205326406,PAN,Mexico,mx,1614424252123206,PAN Estado de México,Facebook
-9f9b3280-8bb7-484c-946a-0fa1dfcb4dc6,PAN Baja California,2023-05-01T06:53:14.222Z,3cb16449-3e45-4e6d-a6a4-7dfc260e9a5a,PAN,Mexico,mx,109811393861066,PAN Baja California,Facebook
+457a10e5-225f-43e3-ae4b-34eb1a3aa89d,PAN Ciudad de México,2023-02-25T10:53:48.106Z,154ff8a1-21bd-4ef4-8282-dcbd920c0242,PAN,Mexico,mx,338810152847727,PAN Ciudad de México,Facebook
+bd870721-7399-4ef3-9ac3-80f820d31db7,PAN Nayarit,2023-02-07T15:05:04.105Z,0f43dc18-7c78-42d8-ab90-b35b682b7de7,PAN,Mexico,mx,1703739713216018,PAN Nayarit,Facebook
 aa5fc061-3b76-4b7e-a956-9f964fcc6ed0,PAN Guanajuato,2023-02-24T10:53:43.357Z,e55958a3-d307-4dc7-b587-f0484124f7b2,PAN,Mexico,mx,163411220385285,PAN Guanajuato,Facebook
 aa6495c8-015f-4695-abd9-b1f6fdb6982e,PAN Nuevo León,2023-02-07T15:05:02.299Z,a55a9362-92b0-48b7-bd1a-b41f6f65ac70,PAN,Mexico,mx,360811057341855,PAN Nuevo León,Facebook
-bd864726-bdd1-4e24-86b0-8ea49397c796,PAN Tamaulipas,2023-03-08T14:43:14.544Z,cca9041b-1e2b-48de-80f1-c088858b0a32,PAN,Mexico,mx,197038210339876,PAN Tamaulipas,Facebook
-bd870721-7399-4ef3-9ac3-80f820d31db7,PAN Nayarit,2023-02-07T15:05:04.105Z,0f43dc18-7c78-42d8-ab90-b35b682b7de7,PAN,Mexico,mx,1703739713216018,PAN Nayarit,Facebook
+006a2cf7-e3a4-471e-9d55-882859c0f76f,PAN Baja California Sur,2023-02-12T10:53:31.876Z,fb44ab08-67e5-4a6b-904c-a43db57a0fe6,PAN,Mexico,mx,200425670023135,PAN Baja California Sur,Facebook
 bdaee9b8-28f2-4c16-b95b-31b326a78bfa,PAN Durango,2023-02-11T10:53:24.390Z,9590bb7a-41aa-4a33-9556-c13e7eebb950,PAN,Mexico,mx,954764027880365,PAN Durango,Facebook
-c8a59687-d35b-41e5-9792-4ac89fe8a2de,Marko Cortés,2023-02-19T10:53:53.653Z,20a4b9b5-f816-4022-9cc5-1d22069a3282,PAN,Mexico,mx,264773293005,Marko Cortés,Facebook
-d5b5f961-f522-40c6-972a-ec9db790675a,PAN Juárez,2023-04-08T10:53:35.416Z,7e165580-0ccf-4f31-8eea-49ce4cd0e8dc,PAN,Mexico,mx,516233931847883,PAN Juárez,Facebook
-e6a7d193-a183-43b8-b2f2-dbbf8a59695b,PAN Lerdo de Tejada,2023-03-08T14:43:15.839Z,f7d08515-e4d6-4ef9-9349-88781afbc593,PAN,Mexico,mx,110489930566649,PAN Lerdo de Tejada,Facebook
-ffe4177b-b786-45d5-9c54-9e0afdfdf63b,Xóchitl Gálvez Ruiz,2023-03-08T17:46:10.652Z,a96c96c1-9a19-4aa9-8425-c734d6fef9d7,PAN,Mexico,mx,100867376619769,Xóchitl Gálvez Ruiz,Facebook
-9804e0ab-f122-4804-a174-869c859a2060,PRI Durango,2023-02-07T15:05:04.939Z,8a0a75bd-a7bc-4d00-9834-66976846f07a,PRI,Mexico,mx,246251215410203,PRI Durango,Facebook
-fb19ed87-78db-4805-8983-5bdf6b96353e,Alejandro Moreno Cárdenas,2023-03-08T16:53:39.220Z,58e344b3-0406-462d-9509-b1adc0fb1ee4,PRI,Mexico,mx,115452255131465,Alejandro Moreno Cárdenas,Facebook
-008f10b5-4a56-4f25-934a-ae4837d77c30,Roberto Peña Secretario General PRD,2023-04-22T06:03:51.596Z,8e01b3a9-18e7-4eed-993f-16b8df6aa3d8,PRD,Mexico,mx,111138858608990,Roberto Peña Secretario General PRD,Facebook
-026be51e-768f-463c-b072-35ef3d7327ab,PRD Tulum,2023-11-28T06:18:03.047Z,fe80c134-08c8-46cb-8d75-0cb327ac6434,PRD,Mexico,mx,117366224801971,PRD Tulum,Facebook
-0448732b-c5c7-49e1-90bc-6fad7bcfa4ea,Partido de la Revolución Democrática PRD,2023-03-01T10:53:37.244Z,06c11aa5-5e25-4a74-99d6-e6aa65e283de,PRD,Mexico,mx,381985873573,Partido de la Revolución Democrática PRD,Facebook
-1d940de2-c11e-4f2e-9b97-d5de8ec2b399,PRD Malinalco,2023-11-04T05:07:37.032Z,22d0547f-1c8b-4731-bf82-fed846b3e696,PRD,Mexico,mx,102350661175751,PRD Malinalco,Facebook
-23339c13-e4ed-4913-8800-13d1943c36d6,PRD Ciudad de México,2023-04-27T06:53:25.690Z,b57ce2d2-3009-4c59-9b12-9c0eaa4aa47f,PRD,Mexico,mx,110037035281510,PRD Ciudad de México,Facebook
-58e832e3-aa06-43f7-9941-7e3f6c15979f,Juventudes de Izquierda PRD Centro,2023-12-06T05:07:40.622Z,b8dfe07d-9727-4879-ad1d-c5bf4e531ad8,PRD,Mexico,mx,107603110853047,Juventudes de Izquierda PRD Centro,Facebook
-5df99877-18bb-4ac6-a8ef-13d0be7052b8,PRD Michoacán,2023-02-07T15:05:04.726Z,ccc08082-a0a6-461c-a552-3b3b23256bbc,PRD,Mexico,mx,640044982685950,PRD Michoacán,Facebook
-61cf11b9-616c-4094-a915-b621a60c2f1b,PRD Tamaulipas,2023-02-07T15:05:02.707Z,8ed15ee6-11f7-4fe8-9194-788f13c34fe9,PRD,Mexico,mx,100246558338851,PRD Tamaulipas,Facebook
-700ba2b3-a229-4745-adc2-43cceeec6cc1,PRD Estado de México,2023-09-08T05:07:50.207Z,0d350ed9-0c1c-404c-b337-3aa3697fc5c9,PRD,Mexico,mx,306365536096057,PRD Estado de México,Facebook
-951b7514-b74f-4056-9def-57fb4f9a9bb9,PRD Oaxaca,2023-02-07T15:05:04.312Z,7580f679-d47c-4045-8445-c4c0909a037f,PRD,Mexico,mx,111651538178468,PRD Oaxaca,Facebook
-9c575054-3237-467c-8aaa-f8f161776c97,PRD Calimaya Comité Municipal,2023-04-17T08:06:56.959Z,5eb68d8d-54c3-482d-9bad-655fc2d9f0d4,PRD,Mexico,mx,112280553777570,PRD Calimaya Comité Municipal,Facebook
-b8349eac-4760-469d-bd60-41fdf0f5744f,PRD Morelos,2023-09-11T05:07:51.561Z,ffce2554-f4a1-4bbc-a387-f37a10f4727c,PRD,Mexico,mx,382898808922171,PRD Morelos,Facebook
-bc758612-1fc3-4e51-933c-225fa0bad454,Género y Política PRD Tv web,2023-03-11T10:53:44.084Z,30baa9e4-05bd-438a-84e6-88ba3b8ed57a,PRD,Mexico,mx,1906429816285166,Género y Política PRD Tv web,Facebook
-f20e3c6c-305e-471b-8bdb-aab75c7ef63d,Mary Telma Guajardo,2023-03-03T10:53:41.934Z,63730709-cb61-469a-8b44-488685886535,PRD,Mexico,mx,1648597332040019,Mary Telma Guajardo,Facebook
-f8b8648f-09c3-4d34-bb82-c41f30783f00,PRD-Coahuila,2023-02-13T10:53:49.357Z,663ee879-3145-42f7-8707-cf54b0fdc3b6,PRD,Mexico,mx,153486705119723,PRD-Coahuila,Facebook
-064563b9-1781-474a-bf51-4cc8c7c00cc3,Partido del Trabajo Zitlala Guerrero,2023-04-11T10:53:17.498Z,086ac71f-552c-4640-9050-27000420c660,PT,Mexico,mx,112256535161551,Partido del Trabajo Zitlala Guerrero,Facebook
-06a06b17-011a-401f-b110-3a7dcc59433c,PT Tenabo,2023-04-24T06:53:30.142Z,cb7bc43a-57cf-42ca-a8fa-2dd7faacdb92,PT,Mexico,mx,104767412348476,PT Tenabo,Facebook
-06b1361f-3aad-414d-9a3e-9f164fdc924d,Yazmín García Candidata a Diputación Dtto. 01 Coahuila,2023-04-21T06:53:37.338Z,27925930-90e0-4715-8944-ace8eb4b11fd,PT,Mexico,mx,103726446023727,Yazmín García Candidata a Diputación Dtto. 01 Coahuila,Facebook
-071b92dc-4f70-4c46-a228-2ba26197602e,PT Baja California Sur,2023-09-15T04:05:58.564Z,99548e0a-24bf-4f9c-a124-8780abdab628,PT,Mexico,mx,1810147899268622,PT Baja California Sur,Facebook
-0d1f886f-2a1f-449f-b1fb-75a19829f865,PT Hidalgo Oficial,2023-09-15T04:05:59.488Z,082591ba-aff7-430c-83e6-7525cd8c1ec7,PT,Mexico,mx,664269947301823,PT Hidalgo Oficial,Facebook
-1075c4c7-f793-436f-95e4-92af4eb0a081,Partido del Trabajo Nuevo León,2023-03-27T10:53:42.316Z,08b7dc2d-fc74-4dfc-8fe5-63a4187df8e0,PT,Mexico,mx,1831931877077110,Partido del Trabajo Nuevo León,Facebook
-126ccb40-6d9f-4148-9748-f707c164936c,Partido del Trabajo Tamaulipas,2023-09-15T04:05:59.485Z,2a078221-2d8f-4352-b012-b75fc02bf260,PT,Mexico,mx,964266947035385,Partido del Trabajo Tamaulipas,Facebook
-14e7f461-97d3-49d0-b7a9-813059c03453,PT Caborca,2023-02-07T15:05:04.814Z,d740fb68-3035-459a-a27e-b336ba09fdaf,PT,Mexico,mx,108818012092969,PT Caborca,Facebook
-15a8e4f7-e184-44d1-9014-eebabd644e05,Partido del trabajo Paracho,2023-10-31T05:23:48.819Z,ff6a9db5-a8f5-4105-87fe-07951b7fc217,PT,Mexico,mx,106725472416138,Partido del trabajo Paracho,Facebook
-1b1d7059-98cc-4dc1-a296-cd3fb81cabae,Partido del Trabajo Quintana Roo,2023-02-24T10:53:44.139Z,c399aa7c-eef9-4eba-b32f-b448f5b47860,PT,Mexico,mx,105059024923454,Partido del Trabajo Quintana Roo,Facebook
-1f6a8443-b49e-4e52-a4c1-cef9cf0bafb2,PT Puebla,2023-09-15T04:05:59.469Z,33d51678-293f-45a5-b4bc-2a7a6ce0641f,PT,Mexico,mx,944663648932826,PT Puebla,Facebook
-2fda14b6-aa4d-458f-87ff-a152c842478c,Chepina Flores,2023-04-29T06:53:23.746Z,0f95d44c-415f-430a-9f02-86312cb58607,PT,Mexico,mx,115077694871448,Chepina Flores,Facebook
+14d6923f-c7a7-4aed-949f-d43e86ed198a,Comité Directivo Estatal del PAN Chihuahua,2023-02-08T05:55:48.716Z,d78c75c3-cd16-4673-b7be-5e034855ba9f,PAN,Mexico,mx,449319475244963,Comité Directivo Estatal del PAN Chihuahua,Facebook
+864bc6d2-22b1-44da-a9bd-72bb0425a292,PAN Santa Catarina,2023-02-19T10:53:53.827Z,e12c58be-b191-405f-8212-b69634c0584f,PAN,Mexico,mx,438264206323038,PAN Santa Catarina,Facebook
+8786e986-853d-4bb0-84fd-ba4486ad2c77,Partido Acción Nacional,2023-02-07T15:05:03.360Z,a4816327-f4b5-44b3-a7ac-01b4cef0d3dc,PAN,Mexico,mx,108819392526809,Partido Acción Nacional,Facebook
+72d18251-3d3e-45ee-a5ba-914748da451b,Morena Silao,2023-03-07T10:53:40.889Z,6cbdd760-6fd6-44f9-918c-dcbf079e99dd,MORENA,Mexico,mx,103774005950059,Morena Silao,Facebook
+c68140bc-7fc5-4c6f-b9ac-ea3b4a43e0c9,Morena Unida,2023-02-14T10:53:41.822Z,08b5208c-d559-4228-9670-7019f2c6d74b,MORENA,Mexico,mx,107846325509637,Morena Unida,Facebook
+2c27c84b-06cc-4836-a1b7-40cc71cc82de,Con Morena Sí,2023-02-07T15:05:03.281Z,e33002d1-4379-4ac8-9d5f-8c9a9aff99a0,MORENA,Mexico,mx,182127647235802,Con Morena Sí,Facebook
+75535b7e-8347-4952-9c60-aa6b82403b13,Nación Morena,2023-03-06T10:53:42.782Z,718dcbf5-4691-45d1-95e5-0926927f5eeb,MORENA,Mexico,mx,106322671165769,Nación Morena,Facebook
+f7b7aaa9-7cda-47b9-82ca-1863e5312162,Juventud Morena,2023-02-11T10:53:25.417Z,9bf039d3-a65e-4a62-bb66-b1792ea5228c,MORENA,Mexico,mx,103008312077513,Juventud Morena,Facebook
+6e4f1ee3-7af3-4f0e-9fec-167ad02555e4,MH Morena,2023-02-19T10:53:54.325Z,b729e72a-cf07-465e-be59-0b1f24fb8589,MORENA,Mexico,mx,102604695531633,MH Morena,Facebook
+fa0e5c57-f784-42d3-b7df-07b0108e1227,Morena Fundadores,2023-02-14T10:53:43.067Z,00d43835-a922-4915-8a8a-eb72f0c582c3,MORENA,Mexico,mx,103664725265225,Morena Fundadores,Facebook
+e74355f0-856e-43a7-acd8-46ee0b5c898e,Morena Bajío,2023-02-10T10:53:46.727Z,8c8a19a7-1598-4cc4-8126-d2ca6cf50e5b,MORENA,Mexico,mx,104722152445910,Morena Bajío,Facebook
+94f348ca-52b6-4589-9c56-894c931aed72,Tlalnepantla Morena,2023-02-14T10:53:42.683Z,898ca161-c021-49b5-83ba-f072d583735b,MORENA,Mexico,mx,109796011267751,Tlalnepantla Morena,Facebook
+0387c56f-82f3-4dd9-9e53-dcc44e7ff531,Morena Sí Yucatán,2023-02-07T15:05:04.788Z,525aa3cb-e66a-47d7-94ff-d6b7799ffda5,MORENA,Mexico,mx,104620592430694,Morena Sí Yucatán,Facebook
+33aff850-000a-4074-a9ee-cef327d6f273,Morena Colima Sí,2023-02-11T10:53:24.129Z,8b7b7503-2e54-4b30-a076-567924312917,MORENA,Mexico,mx,126979027991075,Morena Colima Sí,Facebook
+5ce879f3-ead6-443a-9814-c746e1446faa,Morena Nuevo Laredo,2023-02-13T10:53:48.374Z,95ad9655-4928-4837-b853-073c2eb42218,MORENA,Mexico,mx,957656807730690,Morena Nuevo Laredo,Facebook
+79366c12-fd08-4799-829d-44c154edd265,Valentía Morena,2023-02-17T10:53:28.157Z,47be91bd-e9c0-4463-a33a-4e513d9cbe30,MORENA,Mexico,mx,105426922369721,Valentía Morena,Facebook
+f0d8c7ed-2bda-41b3-b181-35c1915c127a,Morena Sí,2023-02-07T15:05:02.253Z,6bb60e2f-1985-4ef6-a6fa-eb2312737fd8,MORENA,Mexico,mx,923633637651202,Morena Sí,Facebook
 3176cbed-bd62-4daa-893f-b328ef8a128f,Partido del Trabajo Michoacán,2023-04-30T06:53:05.813Z,31c30d21-c117-4295-80aa-0a3174d6b182,PT,Mexico,mx,445959782175203,Partido del Trabajo Michoacán,Facebook
-33ea663e-0361-4059-99b7-183b6ecf5229,Partido Del Trabajo CDMX,2023-09-15T04:05:58.481Z,35e57928-02f4-43b6-8328-60028c90f16a,PT,Mexico,mx,107607818513380,Partido Del Trabajo CDMX,Facebook
-35dbe2d8-2904-4716-8316-9e4907c6e9d4,Partido del Trabajo Zacatecas,2023-03-03T10:53:41.129Z,5fbad4b3-94cc-4b58-b85b-44b8c4db9054,PT,Mexico,mx,1559213997687989,Partido del Trabajo Zacatecas,Facebook
-39ff6611-161c-4b7d-87d2-a33037a871f5,PT Sinaloa,2023-09-15T04:05:59.447Z,c8dfad1d-e524-422b-959f-81077aaf10c8,PT,Mexico,mx,101345828636162,PT Sinaloa,Facebook
-400bf2bc-a9ed-4c9b-bdbb-8cd9f5f7d1ef,Yolanda Palacios Candidata Dtto 13,2023-10-31T05:23:48.394Z,c0e40cc8-c293-438c-8e2d-19c8d7c201f0,PT,Mexico,mx,111068385321408,Yolanda Palacios Candidata Dtto 13,Facebook
-469f854a-588d-4be3-9d08-ed83cc112d44,PT Hopelchén,2023-04-28T06:53:18.855Z,1c911a51-7cbe-4385-8b83-45abbd21c553,PT,Mexico,mx,158734694822818,PT Hopelchén,Facebook
-5375fbdf-11ae-414b-907d-acefcc695702,Iris de Hoyos,2023-04-21T06:53:37.389Z,a6691a6c-d350-4652-8c0a-22c78fa4d877,PT,Mexico,mx,106982785695756,Iris de Hoyos,Facebook
+72b6de6c-df35-459d-87de-5a5af35a7da5,PAN Valladolid,2023-03-09T10:53:44.567Z,09608a2e-2bb5-474d-accf-09e7b1549d38,PAN,Mexico,mx,982968625195665,PAN Valladolid,Facebook
+4348b6f7-945c-4d2a-9940-8ab4d890e333,"Partido Verde Ecologista Tuxpan, Veracruz",2023-03-22T10:53:19.342Z,b23954e5-7350-434c-8a04-d93f76285a22,PVE,Mexico,mx,100270259551306,"Partido Verde Ecologista Tuxpan, Veracruz",Facebook
+208e5308-8091-4217-8e88-b2757f353f5c,Partido Verde Ecologista de México Apaxco,2023-04-28T06:53:18.854Z,0f698fca-e202-465d-a4ea-3998e9678ec6,PVE,Mexico,mx,114334464915144,Partido Verde Ecologista de México Apaxco,Facebook
+dcc9fef0-36d3-4d17-a57b-529ff48510bb,Memo Felan,2023-04-23T06:53:02.884Z,b6bce9d3-62ed-4891-b1fa-3751fa36ce19,PT,Mexico,mx,107170742354299,Memo Felan,Facebook
+c7b23a87-9ee0-4286-92a8-53a0efafd3bd,PARTIDO DEL TRABAJO ENSENADA,2023-03-08T15:51:59.695Z,3fd1f546-72f0-47e7-a36a-55d69f1290e5,PT,Mexico,mx,152877984781441,PARTIDO DEL TRABAJO ENSENADA,Facebook
+1075c4c7-f793-436f-95e4-92af4eb0a081,Partido del Trabajo Nuevo León,2023-03-27T10:53:42.316Z,08b7dc2d-fc74-4dfc-8fe5-63a4187df8e0,PT,Mexico,mx,1831931877077110,Partido del Trabajo Nuevo León,Facebook
+d5b5f961-f522-40c6-972a-ec9db790675a,PAN Juárez,2023-04-08T10:53:35.416Z,7e165580-0ccf-4f31-8eea-49ce4cd0e8dc,PAN,Mexico,mx,516233931847883,PAN Juárez,Facebook
 54a54061-f653-4fc7-a49e-bc7a5126ae74,Partido del Trabajo Chiapas,2023-03-19T10:53:28.164Z,0902028f-c874-47ea-9ab5-d64f845e6d30,PT,Mexico,mx,101878228730002,Partido del Trabajo Chiapas,Facebook
-5a3fbca0-e6a1-4807-bbf8-6138faf09d27,Sarahi de Leon,2023-04-23T06:53:03.046Z,ef226cc4-cccd-4643-a94b-8009c88148db,PT,Mexico,mx,105752909164833,Sarahi de Leon,Facebook
+2fda14b6-aa4d-458f-87ff-a152c842478c,Chepina Flores,2023-04-29T06:53:23.746Z,0f95d44c-415f-430a-9f02-86312cb58607,PT,Mexico,mx,115077694871448,Chepina Flores,Facebook
+9c3afe6c-ade6-485c-a0b0-ac11de32a0b5,PAN Estado de México,2023-04-22T06:03:50.695Z,39f947f6-5d11-46dd-86fe-066205326406,PAN,Mexico,mx,1614424252123206,PAN Estado de México,Facebook
+aed956f5-1d2f-4108-8d07-c1b432d63fea,Partido Verde Torreón,2023-05-01T06:53:12.820Z,ca01b4dd-5294-49b5-acae-c37a5bf0955a,PVE,Mexico,mx,220540261613878,Partido Verde Torreón,Facebook
+b5a5d0f4-693b-4764-98ea-da31abba4612,PTCampeche Municipal Oficial,2023-04-25T06:53:14.366Z,28a203db-e2cf-4f79-921a-876f615e1422,PT,Mexico,mx,105135655632036,PTCampeche Municipal Oficial,Facebook
+702f0c0c-1c1c-4acf-8975-28d8725f8e2d,Movimiento Ciudadano Paracho,2023-04-07T10:53:32.892Z,946ecdaa-f9dd-48b3-bb6c-b8a3b37ed173,MC,Mexico,mx,614411902264977,Movimiento Ciudadano Paracho,Facebook
+9a074d25-0f56-4fe1-b61c-25d20f08551c,Laura Rangel,2023-03-12T10:53:40.881Z,ae886309-5798-4d47-97ee-c399688d764d,PAN,Mexico,mx,1443435395948711,Laura Rangel,Facebook
+f9f7dcee-edc9-4a2b-bcaa-16f2de7bb817,PT Campeche Oficial,2023-03-10T10:53:32.272Z,5b509010-4a6b-4879-9516-16ceb01b5fb4,PT,Mexico,mx,707277452803584,PT Campeche Oficial,Facebook
+bc830eae-320a-415e-b4ba-0d205a5c3d6d,Yolanda Palacios C,2023-04-29T06:53:23.903Z,8ebd09ef-5155-4431-9c9f-4908fc28ffb9,PT,Mexico,mx,103111452764294,Yolanda Palacios C,Facebook
+e6a7d193-a183-43b8-b2f2-dbbf8a59695b,PAN Lerdo de Tejada,2023-03-08T14:43:15.839Z,f7d08515-e4d6-4ef9-9349-88781afbc593,PAN,Mexico,mx,110489930566649,PAN Lerdo de Tejada,Facebook
 6232a61b-9141-4050-89d7-5fbb0074113f,PT Guanajuato,2023-03-08T20:05:11.701Z,a1580ff7-a2f4-4a8c-8f70-13d2b5ef24fd,PT,Mexico,mx,1129268023807540,PT Guanajuato,Facebook
-687062fb-4f8b-4433-8397-0a08899849f3,Partido del Trabajo en la Cámara de Senadores,2023-03-08T20:05:12.262Z,801b305b-88ed-4e9d-8a71-ea4de7dd7e1a,PT,Mexico,mx,573621319739750,Partido del Trabajo en la Cámara de Senadores,Facebook
-730c817b-c6d6-4a2d-a406-cb1c4a970b0b,PT Yucatán,2023-09-15T04:05:59.443Z,6342f73f-3566-4d8d-a6e3-0865c68e2884,PT,Mexico,mx,858416494327794,PT Yucatán,Facebook
+d8746091-fb57-437c-a136-fe349e60bd1c,Movimiento Ciudadano Ciudad de México,2023-04-01T10:53:16.301Z,5d4084bc-5cb3-4f73-be48-efdeb5e8589f,MC,Mexico,mx,213054628856737,Movimiento Ciudadano Ciudad de México,Facebook
+5375fbdf-11ae-414b-907d-acefcc695702,Iris de Hoyos,2023-04-21T06:53:37.389Z,a6691a6c-d350-4652-8c0a-22c78fa4d877,PT,Mexico,mx,106982785695756,Iris de Hoyos,Facebook
+e89d1cb0-d7dc-42d2-8609-920dac119988,Candidata Diputada Miriam Saldaña,2023-04-24T06:53:29.755Z,bfe4ed52-4db7-4e83-b31d-ce6c528670b2,PT,Mexico,mx,104882612583865,Candidata Diputada Miriam Saldaña,Facebook
+88cd32e2-63a6-4e2b-ae92-3ffe97d1e4ff,PT Tlaxcala,2023-04-09T10:53:30.755Z,b7a401d4-65d3-4a0e-9bec-4759c74697be,PT,Mexico,mx,239748533039750,PT Tlaxcala,Facebook
+bd864726-bdd1-4e24-86b0-8ea49397c796,PAN Tamaulipas,2023-03-08T14:43:14.544Z,cca9041b-1e2b-48de-80f1-c088858b0a32,PAN,Mexico,mx,197038210339876,PAN Tamaulipas,Facebook
+5dc40938-02e9-4f3b-b297-009e05f1afe5,PAN Puebla,2023-03-15T10:53:48.238Z,3dc77a99-9dff-4fd5-9fd2-55799ae6851d,PAN,Mexico,mx,1676128462664093,PAN Puebla,Facebook
+064563b9-1781-474a-bf51-4cc8c7c00cc3,Partido del Trabajo Zitlala Guerrero,2023-04-11T10:53:17.498Z,086ac71f-552c-4640-9050-27000420c660,PT,Mexico,mx,112256535161551,Partido del Trabajo Zitlala Guerrero,Facebook
+469f854a-588d-4be3-9d08-ed83cc112d44,PT Hopelchén,2023-04-28T06:53:18.855Z,1c911a51-7cbe-4385-8b83-45abbd21c553,PT,Mexico,mx,158734694822818,PT Hopelchén,Facebook
+b2c27611-abf4-4da8-9c50-ae9bf7b238a9,Valeria Flores,2023-04-21T06:53:37.447Z,02c48882-8eff-4603-bffc-4feb84a46e74,PT,Mexico,mx,109329305396368,Valeria Flores,Facebook
+5a3fbca0-e6a1-4807-bbf8-6138faf09d27,Sarahi de Leon,2023-04-23T06:53:03.046Z,ef226cc4-cccd-4643-a94b-8009c88148db,PT,Mexico,mx,105752909164833,Sarahi de Leon,Facebook
 733e449a-3fe5-4c67-8e29-657f666fc243,PT Morelos,2023-04-14T08:48:46.859Z,aaef285c-cad1-45d8-95c5-6965fb5da689,PT,Mexico,mx,253884044735368,PT Morelos,Facebook
 8432f46a-3419-485a-98bb-6c11895766ff,Arturo Gomez Rodriguez,2023-04-29T06:53:23.890Z,b4b4b174-7f2e-4200-9d4e-c0215a02ea0f,PT,Mexico,mx,474895786671922,Arturo Gomez Rodriguez,Facebook
-845800c4-df95-4dea-aa09-3ab7ad44bb68,Partido del Trabajo México,2023-02-07T15:05:02.919Z,442227b7-1355-440e-b206-366f4bb59753,PT,Mexico,mx,239726076054918,Partido del Trabajo México,Facebook
-88cd32e2-63a6-4e2b-ae92-3ffe97d1e4ff,PT Tlaxcala,2023-04-09T10:53:30.755Z,b7a401d4-65d3-4a0e-9bec-4759c74697be,PT,Mexico,mx,239748533039750,PT Tlaxcala,Facebook
-8c73cbdd-e562-4c55-94c3-e59f86c91498,PT Veracruz,2023-02-07T15:05:04.963Z,1955104c-c2c7-45b0-b622-ddb7e2b0b5aa,PT,Mexico,mx,600353183364238,PT Veracruz,Facebook
-8d553277-fbed-4904-8497-898b5753e1bf,PT Jalisco,2023-02-07T15:05:04.646Z,971a5a33-2607-4cdd-958d-c49988e2f455,PT,Mexico,mx,1465561517020740,PT Jalisco,Facebook
-9ca8d533-f6f0-4e15-96ca-e7f1e5372c51,Partido del Trabajo Querétaro Estatal,2023-09-15T04:05:44.700Z,2911531f-f9a6-44c7-8fbe-1f27c693b8d6,PT,Mexico,mx,107308034009698,Partido del Trabajo Querétaro Estatal,Facebook
-a587bae3-a6dc-40af-8e5a-9c9f78660b52,PT Estado de México,2023-09-15T04:06:27.296Z,db9cc168-ef4f-435f-8665-09b450bd68af,PT,Mexico,mx,394910241150524,PT Estado de México,Facebook
-b2c27611-abf4-4da8-9c50-ae9bf7b238a9,Valeria Flores,2023-04-21T06:53:37.447Z,02c48882-8eff-4603-bffc-4feb84a46e74,PT,Mexico,mx,109329305396368,Valeria Flores,Facebook
-b5a5d0f4-693b-4764-98ea-da31abba4612,PTCampeche Municipal Oficial,2023-04-25T06:53:14.366Z,28a203db-e2cf-4f79-921a-876f615e1422,PT,Mexico,mx,105135655632036,PTCampeche Municipal Oficial,Facebook
-bc830eae-320a-415e-b4ba-0d205a5c3d6d,Yolanda Palacios C,2023-04-29T06:53:23.903Z,8ebd09ef-5155-4431-9c9f-4908fc28ffb9,PT,Mexico,mx,103111452764294,Yolanda Palacios C,Facebook
+f2ce7b0b-87e9-47ba-8bd4-2f390397cfa2,Toño Wislar,2023-04-30T06:53:06.559Z,7f27cb5f-a769-438c-ae4d-c12ecef97be9,PT,Mexico,mx,103751705955194,Toño Wislar,Facebook
+0683f510-c553-496e-b87a-23902b293ada,PAN Jalisco,2023-03-12T10:53:39.832Z,983d0109-1de2-4f77-a6d8-275a2f7ec6c5,PAN,Mexico,mx,139327219471161,PAN Jalisco,Facebook
+9f9b3280-8bb7-484c-946a-0fa1dfcb4dc6,PAN Baja California,2023-05-01T06:53:14.222Z,3cb16449-3e45-4e6d-a6a4-7dfc260e9a5a,PAN,Mexico,mx,109811393861066,PAN Baja California,Facebook
+687062fb-4f8b-4433-8397-0a08899849f3,Partido del Trabajo en la Cámara de Senadores,2023-03-08T20:05:12.262Z,801b305b-88ed-4e9d-8a71-ea4de7dd7e1a,PT,Mexico,mx,573621319739750,Partido del Trabajo en la Cámara de Senadores,Facebook
+06b1361f-3aad-414d-9a3e-9f164fdc924d,Yazmín García Candidata a Diputación Dtto. 01 Coahuila,2023-04-21T06:53:37.338Z,27925930-90e0-4715-8944-ace8eb4b11fd,PT,Mexico,mx,103726446023727,Yazmín García Candidata a Diputación Dtto. 01 Coahuila,Facebook
+cd7885bf-005c-4b2f-8430-619fc33e5f15,Dr. Jesus Zcruz,2023-04-28T06:53:17.036Z,47bf7daf-c324-4870-ab8c-ad4f1d052e61,PT,Mexico,mx,101001474848545,Dr. Jesus Zcruz,Facebook
+a06c16d7-8159-4eac-9693-b5c0b33971c1,Partido Verde Coahuila,2023-03-28T10:53:29.533Z,c978d3a9-3f39-474e-8a82-0e178a9247b7,PVE,Mexico,mx,1024449434274133,Partido Verde Coahuila,Facebook
+e5747322-b8de-4618-acbb-a89751c13285,PT Hecelchakán,2023-04-21T06:53:38.040Z,5c8c5ad7-93c2-4fd3-b658-421a85d98e23,PT,Mexico,mx,107565501987392,PT Hecelchakán,Facebook
+06a06b17-011a-401f-b110-3a7dcc59433c,PT Tenabo,2023-04-24T06:53:30.142Z,cb7bc43a-57cf-42ca-a8fa-2dd7faacdb92,PT,Mexico,mx,104767412348476,PT Tenabo,Facebook
+0a4793b2-5b6e-472a-b73b-b26e399af9d4,Movimiento Ciudadano Campeche Estatal,2023-03-08T14:43:14.944Z,7630d158-ad37-4187-bdc3-9544aa5d7053,MC,Mexico,mx,605875296741567,Movimiento Ciudadano Campeche Estatal,Facebook
+a3484f05-b7a8-4a92-b405-9de3f65db2f4,Movimiento Ciudadano Coahuila,2023-03-08T10:53:37.000Z,9c719d32-9cdd-4154-b2d0-69f07e90b742,MC,Mexico,mx,520075024716940,Movimiento Ciudadano Coahuila,Facebook
+4adc12a5-daff-4814-8b93-1dfa17fe2b33,PAN  Querétaro,2023-10-13T05:07:52.292Z,123426d6-5f5e-42d6-8143-3bc7b925ac6c,PAN,Mexico,mx,131240556973754,PAN  Querétaro,Facebook
+15a8e4f7-e184-44d1-9014-eebabd644e05,Partido del trabajo Paracho,2023-10-31T05:23:48.819Z,ff6a9db5-a8f5-4105-87fe-07951b7fc217,PT,Mexico,mx,106725472416138,Partido del trabajo Paracho,Facebook
 c1950752-f96e-49e0-ba70-f126f55a87b1,"Magda Flores “La Profe"" Candidata PT",2023-10-31T05:23:47.835Z,d5611059-27b0-489d-acf0-4e0c7375aec3,PT,Mexico,mx,115758958142788,"Magda Flores “La Profe"" Candidata PT",Facebook
 c3effe04-d45d-426f-a2e5-a9478c557498,PT Oaxaca,2023-09-15T04:06:07.312Z,3eb7bab2-c24e-4c38-ac28-9231803230f5,PT,Mexico,mx,1451173481877627,PT Oaxaca,Facebook
-c7b23a87-9ee0-4286-92a8-53a0efafd3bd,PARTIDO DEL TRABAJO ENSENADA,2023-03-08T15:51:59.695Z,3fd1f546-72f0-47e7-a36a-55d69f1290e5,PT,Mexico,mx,152877984781441,PARTIDO DEL TRABAJO ENSENADA,Facebook
-cd7885bf-005c-4b2f-8430-619fc33e5f15,Dr. Jesus Zcruz,2023-04-28T06:53:17.036Z,47bf7daf-c324-4870-ab8c-ad4f1d052e61,PT,Mexico,mx,101001474848545,Dr. Jesus Zcruz,Facebook
-cfdb0d6b-61b9-4d81-93a8-890805654092,Partido del Trabajo Colima,2023-09-15T04:05:40.325Z,e86b8760-141f-4e64-a9c0-baeeebd98d97,PT,Mexico,mx,751699828237221,Partido del Trabajo Colima,Facebook
-da2137ac-d1fd-49ce-8d46-a017a2431dfb,PT Coahuila,2023-02-07T15:05:04.843Z,7fad9636-74d8-4641-884b-a0c250bff691,PT,Mexico,mx,194020227388552,PT Coahuila,Facebook
-dcc9fef0-36d3-4d17-a57b-529ff48510bb,Memo Felan,2023-04-23T06:53:02.884Z,b6bce9d3-62ed-4891-b1fa-3751fa36ce19,PT,Mexico,mx,107170742354299,Memo Felan,Facebook
-dfd55703-aee4-449b-a38d-3f75a16bef13,Partido del Trabajo Guerrero,2023-09-15T04:06:07.369Z,5dfed5db-b3ab-4d60-8c77-fa211ef19f74,PT,Mexico,mx,2459794167586440,Partido del Trabajo Guerrero,Facebook
-e5747322-b8de-4618-acbb-a89751c13285,PT Hecelchakán,2023-04-21T06:53:38.040Z,5c8c5ad7-93c2-4fd3-b658-421a85d98e23,PT,Mexico,mx,107565501987392,PT Hecelchakán,Facebook
-e7584844-9776-4031-aa37-5349bfd8a8df,PT Nayarit,2023-02-07T15:05:04.441Z,c240f3b9-cd66-47d0-bcca-1f205f7b5ba6,PT,Mexico,mx,265521856950021,PT Nayarit,Facebook
-e89d1cb0-d7dc-42d2-8609-920dac119988,Candidata Diputada Miriam Saldaña,2023-04-24T06:53:29.755Z,bfe4ed52-4db7-4e83-b31d-ce6c528670b2,PT,Mexico,mx,104882612583865,Candidata Diputada Miriam Saldaña,Facebook
-ed7d8b3b-2bd8-4a61-b664-0caa141530d0,"Partido del Trabajo, San Luis Potosí",2023-09-15T04:05:59.460Z,49ed3272-7304-4367-8553-8bd1af4668ff,PT,Mexico,mx,209666139498773,"Partido del Trabajo, San Luis Potosí",Facebook
-f24effac-2407-4256-a8e6-61d6ddae28e1,Partido del Trabajo Tabasco,2023-09-15T04:06:07.200Z,7cd83647-5baf-47a6-9baf-2dcdcdc597f3,PT,Mexico,mx,703286489702146,Partido del Trabajo Tabasco,Facebook
-f2ce7b0b-87e9-47ba-8bd4-2f390397cfa2,Toño Wislar,2023-04-30T06:53:06.559Z,7f27cb5f-a769-438c-ae4d-c12ecef97be9,PT,Mexico,mx,103751705955194,Toño Wislar,Facebook
+008f10b5-4a56-4f25-934a-ae4837d77c30,Roberto Peña Secretario General PRD,2023-04-22T06:03:51.596Z,8e01b3a9-18e7-4eed-993f-16b8df6aa3d8,PRD,Mexico,mx,111138858608990,Roberto Peña Secretario General PRD,Facebook
 f3383d57-abc5-4786-bb1a-4df7c1e91896,Partido Del Trabajo Durango,2023-09-22T05:07:35.741Z,4123f077-72f3-4fc5-951c-73739e67bf20,PT,Mexico,mx,134032699787463,Partido Del Trabajo Durango,Facebook
+39ff6611-161c-4b7d-87d2-a33037a871f5,PT Sinaloa,2023-09-15T04:05:59.447Z,c8dfad1d-e524-422b-959f-81077aaf10c8,PT,Mexico,mx,101345828636162,PT Sinaloa,Facebook
+23339c13-e4ed-4913-8800-13d1943c36d6,PRD Ciudad de México,2023-04-27T06:53:25.690Z,b57ce2d2-3009-4c59-9b12-9c0eaa4aa47f,PRD,Mexico,mx,110037035281510,PRD Ciudad de México,Facebook
+cfdb0d6b-61b9-4d81-93a8-890805654092,Partido del Trabajo Colima,2023-09-15T04:05:40.325Z,e86b8760-141f-4e64-a9c0-baeeebd98d97,PT,Mexico,mx,751699828237221,Partido del Trabajo Colima,Facebook
+a587bae3-a6dc-40af-8e5a-9c9f78660b52,PT Estado de México,2023-09-15T04:06:27.296Z,db9cc168-ef4f-435f-8665-09b450bd68af,PT,Mexico,mx,394910241150524,PT Estado de México,Facebook
+0d1f886f-2a1f-449f-b1fb-75a19829f865,PT Hidalgo Oficial,2023-09-15T04:05:59.488Z,082591ba-aff7-430c-83e6-7525cd8c1ec7,PT,Mexico,mx,664269947301823,PT Hidalgo Oficial,Facebook
 f99b6604-8866-4bc0-a2ae-6cd8a89e44f2,PT Sonora,2023-09-15T04:05:42.718Z,8fea89a3-da5a-41e1-b9ef-397d99f06179,PT,Mexico,mx,891885224216379,PT Sonora,Facebook
-f9f7dcee-edc9-4a2b-bcaa-16f2de7bb817,PT Campeche Oficial,2023-03-10T10:53:32.272Z,5b509010-4a6b-4879-9516-16ceb01b5fb4,PT,Mexico,mx,707277452803584,PT Campeche Oficial,Facebook
+1d940de2-c11e-4f2e-9b97-d5de8ec2b399,PRD Malinalco,2023-11-04T05:07:37.032Z,22d0547f-1c8b-4731-bf82-fed846b3e696,PRD,Mexico,mx,102350661175751,PRD Malinalco,Facebook
 fef36c81-8203-4c4d-9eea-7de9bf3ae0e5,Partido del Trabajo Ags,2023-09-15T04:05:44.259Z,a79ca6c4-3588-4e3b-a180-61816335cdb9,PT,Mexico,mx,339745856789037,Partido del Trabajo Ags,Facebook
-208e5308-8091-4217-8e88-b2757f353f5c,Partido Verde Ecologista de México Apaxco,2023-04-28T06:53:18.854Z,0f698fca-e202-465d-a4ea-3998e9678ec6,PVE,Mexico,mx,114334464915144,Partido Verde Ecologista de México Apaxco,Facebook
-3f48d8d2-b3fa-431a-91da-8c51cd89860a,Partido Verde Guerrero,2023-02-07T15:05:03.570Z,f289b81e-6fbf-476c-b15d-87153811dbbd,PVE,Mexico,mx,631195260345898,Partido Verde Guerrero,Facebook
-4348b6f7-945c-4d2a-9940-8ab4d890e333,"Partido Verde Ecologista Tuxpan, Veracruz",2023-03-22T10:53:19.342Z,b23954e5-7350-434c-8a04-d93f76285a22,PVE,Mexico,mx,100270259551306,"Partido Verde Ecologista Tuxpan, Veracruz",Facebook
-4818f568-2cc9-482e-a4e6-9c8fbe04ea6c,Partido Verde Tampico,2023-03-01T10:53:37.762Z,0f05a042-7556-494c-b95d-58078787a970,PVE,Mexico,mx,109123391627104,Partido Verde Tampico,Facebook
-838c1356-1c50-4657-9df6-2545a08bdca4,Partido Verde Ciudad Juárez,2023-02-07T15:05:04.665Z,293209b0-71d1-46a8-997a-783f802def5b,PVE,Mexico,mx,101069159489872,Partido Verde Ciudad Juárez,Facebook
-a06c16d7-8159-4eac-9693-b5c0b33971c1,Partido Verde Coahuila,2023-03-28T10:53:29.533Z,c978d3a9-3f39-474e-8a82-0e178a9247b7,PVE,Mexico,mx,1024449434274133,Partido Verde Coahuila,Facebook
-aed956f5-1d2f-4108-8d07-c1b432d63fea,Partido Verde Torreón,2023-05-01T06:53:12.820Z,ca01b4dd-5294-49b5-acae-c37a5bf0955a,PVE,Mexico,mx,220540261613878,Partido Verde Torreón,Facebook
-b6eac8d6-83f7-4de2-8355-a847828066e8,Pepe Couttolenc,2023-02-07T15:05:02.324Z,f6fba879-596b-4980-bb1b-46ecd921a796,PVE,Mexico,mx,102863700463398,Pepe Couttolenc,Facebook
-0513db35-07e4-47a9-b9e7-83da2e254fe6,Movimiento Ciudadano Camargo,2023-02-09T06:28:08.986Z,be274216-01b3-4eba-8d65-cf1c0ba74657,MC,Mexico,mx,108105414956546,Movimiento Ciudadano Camargo,Facebook
-0a4793b2-5b6e-472a-b73b-b26e399af9d4,Movimiento Ciudadano Campeche Estatal,2023-03-08T14:43:14.944Z,7630d158-ad37-4187-bdc3-9544aa5d7053,MC,Mexico,mx,605875296741567,Movimiento Ciudadano Campeche Estatal,Facebook
-1556d898-57c4-4d86-ad8c-f44cb21a3ca3,Senadores Ciudadanos,2023-02-07T15:05:04.878Z,adb827eb-5e54-4387-b0b2-19f254f61e87,MC,Mexico,mx,2091732304477564,Senadores Ciudadanos,Facebook
-21af4229-f79e-452a-8c80-f29ca4d5d433,Movimiento Ciudadano Guanajuato,2023-02-07T15:05:03.499Z,377481fa-f26a-4c75-86d2-83fce835d8f1,MC,Mexico,mx,646954005425552,Movimiento Ciudadano Guanajuato,Facebook
-2305c722-05c2-4515-8fb7-140b0f703c9e,Movimiento Ciudadano Valle De Bravo,2023-02-07T15:05:04.380Z,9684ef09-026b-491b-9d48-521e42c379c7,MC,Mexico,mx,110685781750190,Movimiento Ciudadano Valle De Bravo,Facebook
-325b5ada-95a5-4cfb-9f3f-a53ef3ffcfde,Movimiento Ciudadano ARANDAS,2023-02-07T15:05:04.952Z,54e8685b-aa24-40a8-80a6-3fca4432632b,MC,Mexico,mx,1140370492701453,Movimiento Ciudadano ARANDAS,Facebook
-3e9636a8-b491-43c4-849b-84c0bd96b018,Movimiento Ciudadano,2023-02-07T15:05:02.254Z,09a06c1d-bd46-467c-a92c-ade30ab6ddc8,MC,Mexico,mx,118921468203786,Movimiento Ciudadano,Facebook
-438aee79-b424-4fa8-8c48-aec737cd0a27,Movimiento Ciudadano En Tultitlan,2023-02-12T10:53:31.816Z,9e9ca57c-9bd5-4097-b82d-5e03ce427a7d,MC,Mexico,mx,935282359836644,Movimiento Ciudadano En Tultitlan,Facebook
-4a0fcb79-4a73-4611-9e8e-557c949b729c,Movimiento Ciudadano Yucatán,2023-03-05T10:53:49.414Z,13b0b4a6-7e04-47c0-8db8-2e18ce4e57f7,MC,Mexico,mx,1374560609492228,Movimiento Ciudadano Yucatán,Facebook
-4a567609-f9ca-4719-8d65-f04871fa8a02,Movimiento Ciudadano Sonora,2023-02-26T10:53:47.921Z,21f75344-9443-4634-9890-dcce536ba713,MC,Mexico,mx,479303628822906,Movimiento Ciudadano Sonora,Facebook
-5355376a-4d58-497b-97b0-f3799b5e079e,Movimiento Ciudadano Jocotepec,2023-02-07T15:05:04.372Z,0977dec7-d171-48dc-9543-12494e8fc7ad,MC,Mexico,mx,112127531786587,Movimiento Ciudadano Jocotepec,Facebook
-60cb2452-a9d9-49ac-8425-7b1a4397250b,Movimiento Ciudadano Morelia,2023-02-20T10:53:41.976Z,bb703717-ed7c-44ca-89f5-28ae306dcbf3,MC,Mexico,mx,104616558818919,Movimiento Ciudadano Morelia,Facebook
-702f0c0c-1c1c-4acf-8975-28d8725f8e2d,Movimiento Ciudadano Paracho,2023-04-07T10:53:32.892Z,946ecdaa-f9dd-48b3-bb6c-b8a3b37ed173,MC,Mexico,mx,614411902264977,Movimiento Ciudadano Paracho,Facebook
-7477c5b3-1449-4321-ab00-f71efd534570,Movimiento Ciudadano Linares,2023-02-14T10:53:42.374Z,959df8b4-be29-402d-a822-f24b8d479919,MC,Mexico,mx,101772835825514,Movimiento Ciudadano Linares,Facebook
-81172ef4-8175-4af9-9aa0-8ce0dc6d1c07,Movimiento Ciudadano Santa Catarina,2023-02-07T15:05:03.051Z,fe1118a6-60c0-4d7c-8f75-94ecbf5cccaa,MC,Mexico,mx,570047920128627,Movimiento Ciudadano Santa Catarina,Facebook
-8e256d67-5ba2-419b-992f-86f20b2f2dda,Movimiento Ciudadano Jalisco,2023-02-07T15:05:04.483Z,5901d301-6b6f-43a7-b634-6e6d3c5ef2ce,MC,Mexico,mx,269877666449337,Movimiento Ciudadano Jalisco,Facebook
-a3484f05-b7a8-4a92-b405-9de3f65db2f4,Movimiento Ciudadano Coahuila,2023-03-08T10:53:37.000Z,9c719d32-9cdd-4154-b2d0-69f07e90b742,MC,Mexico,mx,520075024716940,Movimiento Ciudadano Coahuila,Facebook
-aa866c80-2fbd-4ae6-9f81-5db00b29fa9c,Movimiento Ciudadano Nuevo León,2023-02-14T10:53:42.928Z,da53c8ec-af11-456c-839d-e792ee0a9976,MC,Mexico,mx,178625645626125,Movimiento Ciudadano Nuevo León,Facebook
-b5274461-1db7-47f2-ad54-56784dc84992,Movimiento Ciudadano Estado de México,2023-02-07T15:05:02.376Z,3908590e-16f4-499a-9bbe-19cea80ed159,MC,Mexico,mx,341678115934136,Movimiento Ciudadano Estado de México,Facebook
-d360af88-b74e-4168-9f32-bd63348aa37b,Movimiento Ciudadano Colima,2023-02-07T15:05:05.013Z,49fe5cf8-c09c-40fc-8f8e-7aea085610ab,MC,Mexico,mx,651805858170081,Movimiento Ciudadano Colima,Facebook
-d8746091-fb57-437c-a136-fe349e60bd1c,Movimiento Ciudadano Ciudad de México,2023-04-01T10:53:16.301Z,5d4084bc-5cb3-4f73-be48-efdeb5e8589f,MC,Mexico,mx,213054628856737,Movimiento Ciudadano Ciudad de México,Facebook
-e49d6cf8-d8e2-4b28-8666-1d1474770789,Movimiento Ciudadano Coatzacoalcos,2023-02-13T10:53:49.216Z,c31ea629-2b8c-42ef-84c7-678ca11b317e,MC,Mexico,mx,179269592856683,Movimiento Ciudadano Coatzacoalcos,Facebook
-ebe36222-f342-411e-befd-894a57dee566,"Movimiento Ciudadano Torreón, Coahuila",2023-02-07T15:05:04.206Z,493c9df7-a539-46e1-ae74-db72a4f08dab,MC,Mexico,mx,105384605716867,"Movimiento Ciudadano Torreón, Coahuila",Facebook
-f7dc23b5-7fcd-4e06-a988-e082b7962976,Samuel García,2023-03-08T10:53:37.380Z,09d0248a-7561-47a2-bf69-0e0841ad586b,MC,Mexico,mx,384214801745089,Samuel García,Facebook
-fe8ff74f-bde7-48ef-8ef5-1f47e2b6f7f9,Movimiento Ciudadano Chiapas,2023-02-19T10:53:54.554Z,7bc407e9-a484-41e9-8832-bf7851c3d022,MC,Mexico,mx,160576987435947,Movimiento Ciudadano Chiapas,Facebook
-0387c56f-82f3-4dd9-9e53-dcc44e7ff531,Morena Sí Yucatán,2023-02-07T15:05:04.788Z,525aa3cb-e66a-47d7-94ff-d6b7799ffda5,MORENA,Mexico,mx,104620592430694,Morena Sí Yucatán,Facebook
-2236ec1c-5e9f-4452-8510-668427294e52,Ahora es Adán Augusto,2023-09-15T04:05:58.142Z,4aa23a65-5f54-485b-878a-18e603e2635c,MORENA,Mexico,mx,122099148968007468,Ahora es Adán Augusto,Facebook
-23801551-fc5d-4514-86f8-136fc604ad5d,Ahora es Adán Augusto Solidaridad.,2023-09-15T04:05:49.820Z,b63ccfce-6c3d-46a2-9d7a-85587ae17b4a,MORENA,Mexico,mx,101443926132807,Ahora es Adán Augusto Solidaridad.,Facebook
-2c27c84b-06cc-4836-a1b7-40cc71cc82de,Con Morena Sí,2023-02-07T15:05:03.281Z,e33002d1-4379-4ac8-9d5f-8c9a9aff99a0,MORENA,Mexico,mx,182127647235802,Con Morena Sí,Facebook
-33aff850-000a-4074-a9ee-cef327d6f273,Morena Colima Sí,2023-02-11T10:53:24.129Z,8b7b7503-2e54-4b30-a076-567924312917,MORENA,Mexico,mx,126979027991075,Morena Colima Sí,Facebook
+730c817b-c6d6-4a2d-a406-cb1c4a970b0b,PT Yucatán,2023-09-15T04:05:59.443Z,6342f73f-3566-4d8d-a6e3-0865c68e2884,PT,Mexico,mx,858416494327794,PT Yucatán,Facebook
+700ba2b3-a229-4745-adc2-43cceeec6cc1,PRD Estado de México,2023-09-08T05:07:50.207Z,0d350ed9-0c1c-404c-b337-3aa3697fc5c9,PRD,Mexico,mx,306365536096057,PRD Estado de México,Facebook
+33ea663e-0361-4059-99b7-183b6ecf5229,Partido Del Trabajo CDMX,2023-09-15T04:05:58.481Z,35e57928-02f4-43b6-8328-60028c90f16a,PT,Mexico,mx,107607818513380,Partido Del Trabajo CDMX,Facebook
+9ca8d533-f6f0-4e15-96ca-e7f1e5372c51,Partido del Trabajo Querétaro Estatal,2023-09-15T04:05:44.700Z,2911531f-f9a6-44c7-8fbe-1f27c693b8d6,PT,Mexico,mx,107308034009698,Partido del Trabajo Querétaro Estatal,Facebook
+400bf2bc-a9ed-4c9b-bdbb-8cd9f5f7d1ef,Yolanda Palacios Candidata Dtto 13,2023-10-31T05:23:48.394Z,c0e40cc8-c293-438c-8e2d-19c8d7c201f0,PT,Mexico,mx,111068385321408,Yolanda Palacios Candidata Dtto 13,Facebook
+126ccb40-6d9f-4148-9748-f707c164936c,Partido del Trabajo Tamaulipas,2023-09-15T04:05:59.485Z,2a078221-2d8f-4352-b012-b75fc02bf260,PT,Mexico,mx,964266947035385,Partido del Trabajo Tamaulipas,Facebook
+9c575054-3237-467c-8aaa-f8f161776c97,PRD Calimaya Comité Municipal,2023-04-17T08:06:56.959Z,5eb68d8d-54c3-482d-9bad-655fc2d9f0d4,PRD,Mexico,mx,112280553777570,PRD Calimaya Comité Municipal,Facebook
+071b92dc-4f70-4c46-a228-2ba26197602e,PT Baja California Sur,2023-09-15T04:05:58.564Z,99548e0a-24bf-4f9c-a124-8780abdab628,PT,Mexico,mx,1810147899268622,PT Baja California Sur,Facebook
+f24effac-2407-4256-a8e6-61d6ddae28e1,Partido del Trabajo Tabasco,2023-09-15T04:06:07.200Z,7cd83647-5baf-47a6-9baf-2dcdcdc597f3,PT,Mexico,mx,703286489702146,Partido del Trabajo Tabasco,Facebook
+ffe4177b-b786-45d5-9c54-9e0afdfdf63b,Xóchitl Gálvez Ruiz,2023-03-08T17:46:10.652Z,a96c96c1-9a19-4aa9-8425-c734d6fef9d7,PAN,Mexico,mx,100867376619769,Xóchitl Gálvez Ruiz,Facebook
 379c8ed1-c209-4e68-8059-34f920cb6d18,Amigos de Adán Augusto,2023-09-08T05:07:47.918Z,745da08b-fedc-4330-aa49-c4015c15d281,MORENA,Mexico,mx,105330142544071,Amigos de Adán Augusto,Facebook
-4c0fa8a4-df03-460c-9537-e5e576361fbc,Mario Delgado Carrillo,2023-02-07T15:05:02.407Z,7da517d5-4111-46d4-a985-a2b1f14aba9d,MORENA,Mexico,mx,206323119403212,Mario Delgado Carrillo,Facebook
-5ce879f3-ead6-443a-9814-c746e1446faa,Morena Nuevo Laredo,2023-02-13T10:53:48.374Z,95ad9655-4928-4837-b853-073c2eb42218,MORENA,Mexico,mx,957656807730690,Morena Nuevo Laredo,Facebook
-6e4f1ee3-7af3-4f0e-9fec-167ad02555e4,MH Morena,2023-02-19T10:53:54.325Z,b729e72a-cf07-465e-be59-0b1f24fb8589,MORENA,Mexico,mx,102604695531633,MH Morena,Facebook
-72d18251-3d3e-45ee-a5ba-914748da451b,Morena Silao,2023-03-07T10:53:40.889Z,6cbdd760-6fd6-44f9-918c-dcbf079e99dd,MORENA,Mexico,mx,103774005950059,Morena Silao,Facebook
-75535b7e-8347-4952-9c60-aa6b82403b13,Nación Morena,2023-03-06T10:53:42.782Z,718dcbf5-4691-45d1-95e5-0926927f5eeb,MORENA,Mexico,mx,106322671165769,Nación Morena,Facebook
-79366c12-fd08-4799-829d-44c154edd265,Valentía Morena,2023-02-17T10:53:28.157Z,47be91bd-e9c0-4463-a33a-4e513d9cbe30,MORENA,Mexico,mx,105426922369721,Valentía Morena,Facebook
-94f348ca-52b6-4589-9c56-894c931aed72,Tlalnepantla Morena,2023-02-14T10:53:42.683Z,898ca161-c021-49b5-83ba-f072d583735b,MORENA,Mexico,mx,109796011267751,Tlalnepantla Morena,Facebook
+23801551-fc5d-4514-86f8-136fc604ad5d,Ahora es Adán Augusto Solidaridad.,2023-09-15T04:05:49.820Z,b63ccfce-6c3d-46a2-9d7a-85587ae17b4a,MORENA,Mexico,mx,101443926132807,Ahora es Adán Augusto Solidaridad.,Facebook
 aeb382ea-6bb2-4f77-a1d4-e453f2370c70,Adan Augusto Lopez Quintana Roo,2023-04-17T08:06:56.827Z,9e2d5338-855c-4fcf-9433-2e77b54de0fb,MORENA,Mexico,mx,106751425160068,Adan Augusto Lopez Quintana Roo,Facebook
 be029953-eb74-4e40-afb4-8ccf2b356e4f,Si con Adan Augusto,2023-09-15T04:05:33.254Z,91588835-f8b4-4c82-ba50-efdbfeacf425,MORENA,Mexico,mx,1563332503747959,Si con Adan Augusto,Facebook
-c68140bc-7fc5-4c6f-b9ac-ea3b4a43e0c9,Morena Unida,2023-02-14T10:53:41.822Z,08b5208c-d559-4228-9670-7019f2c6d74b,MORENA,Mexico,mx,107846325509637,Morena Unida,Facebook
+2236ec1c-5e9f-4452-8510-668427294e52,Ahora es Adán Augusto,2023-09-15T04:05:58.142Z,4aa23a65-5f54-485b-878a-18e603e2635c,MORENA,Mexico,mx,122099148968007468,Ahora es Adán Augusto,Facebook
+f7dc23b5-7fcd-4e06-a988-e082b7962976,Samuel García,2023-03-08T10:53:37.380Z,09d0248a-7561-47a2-bf69-0e0841ad586b,MC,Mexico,mx,384214801745089,Samuel García,Facebook
 d6bfb127-4adf-445c-9846-f5d5b4c822fd,Clara Brugada,2023-09-11T05:07:49.722Z,bef51192-e6da-48b5-8593-df0679839351,MORENA,Mexico,mx,498428966918503,Clara Brugada,Facebook
-e74355f0-856e-43a7-acd8-46ee0b5c898e,Morena Bajío,2023-02-10T10:53:46.727Z,8c8a19a7-1598-4cc4-8126-d2ca6cf50e5b,MORENA,Mexico,mx,104722152445910,Morena Bajío,Facebook
-f0d8c7ed-2bda-41b3-b181-35c1915c127a,Morena Sí,2023-02-07T15:05:02.253Z,6bb60e2f-1985-4ef6-a6fa-eb2312737fd8,MORENA,Mexico,mx,923633637651202,Morena Sí,Facebook
-f7b7aaa9-7cda-47b9-82ca-1863e5312162,Juventud Morena,2023-02-11T10:53:25.417Z,9bf039d3-a65e-4a62-bb66-b1792ea5228c,MORENA,Mexico,mx,103008312077513,Juventud Morena,Facebook
-fa0e5c57-f784-42d3-b7df-07b0108e1227,Morena Fundadores,2023-02-14T10:53:43.067Z,00d43835-a922-4915-8a8a-eb72f0c582c3,MORENA,Mexico,mx,103664725265225,Morena Fundadores,Facebook
+2ea7e7aa-e93b-4861-9a59-87fcf3cc7196,Santiago Taboada,2023-02-07T15:05:02.913Z,669f245c-e7a9-4f6b-be1a-cd918a01cb8e,PAN,Mexico,mx,1570135889879076,Santiago Taboada,Facebook
+6b7315ef-38e7-4d88-bbf9-a2ec9509a8c1,Todos con Taboada,2023-10-17T05:07:45.772Z,6bf22ee9-86b9-41d2-b9bd-002a6b7e8cde,PAN,Mexico,mx,139388962592146,Todos con Taboada,Facebook
+1faf642f-2ea8-445b-a900-84a1720dafc5,Mujeres con Taboada,2023-11-06T05:07:30.914Z,8bc6af8a-ef9f-40ae-897a-6c6e4c0537e3,PAN,Mexico,mx,868322509904275,Mujeres con Taboada,Facebook
+dfd55703-aee4-449b-a38d-3f75a16bef13,Partido del Trabajo Guerrero,2023-09-15T04:06:07.369Z,5dfed5db-b3ab-4d60-8c77-fa211ef19f74,PT,Mexico,mx,2459794167586440,Partido del Trabajo Guerrero,Facebook
+026be51e-768f-463c-b072-35ef3d7327ab,PRD Tulum,2023-11-28T06:18:03.047Z,fe80c134-08c8-46cb-8d75-0cb327ac6434,PRD,Mexico,mx,117366224801971,PRD Tulum,Facebook
+1f6a8443-b49e-4e52-a4c1-cef9cf0bafb2,PT Puebla,2023-09-15T04:05:59.469Z,33d51678-293f-45a5-b4bc-2a7a6ce0641f,PT,Mexico,mx,944663648932826,PT Puebla,Facebook
+b8349eac-4760-469d-bd60-41fdf0f5744f,PRD Morelos,2023-09-11T05:07:51.561Z,ffce2554-f4a1-4bbc-a387-f37a10f4727c,PRD,Mexico,mx,382898808922171,PRD Morelos,Facebook
+ed7d8b3b-2bd8-4a61-b664-0caa141530d0,"Partido del Trabajo, San Luis Potosí",2023-09-15T04:05:59.460Z,49ed3272-7304-4367-8553-8bd1af4668ff,PT,Mexico,mx,209666139498773,"Partido del Trabajo, San Luis Potosí",Facebook
+58e832e3-aa06-43f7-9941-7e3f6c15979f,Juventudes de Izquierda PRD Centro,2023-12-06T05:07:40.622Z,b8dfe07d-9727-4879-ad1d-c5bf4e531ad8,PRD,Mexico,mx,107603110853047,Juventudes de Izquierda PRD Centro,Facebook
+bc758612-1fc3-4e51-933c-225fa0bad454,Género y Política PRD Tv web,2023-03-11T10:53:44.084Z,30baa9e4-05bd-438a-84e6-88ba3b8ed57a,PRD,Mexico,mx,1906429816285166,Género y Política PRD Tv web,Facebook
+fb19ed87-78db-4805-8983-5bdf6b96353e,Alejandro Moreno Cárdenas,2023-03-08T16:53:39.220Z,58e344b3-0406-462d-9509-b1adc0fb1ee4,PRI,Mexico,mx,115452255131465,Alejandro Moreno Cárdenas,Facebook
+c8a59687-d35b-41e5-9792-4ac89fe8a2de,Marko Cortés,2023-02-19T10:53:53.653Z,20a4b9b5-f816-4022-9cc5-1d22069a3282,PAN,Mexico,mx,264773293005,Marko Cortés,Facebook
+4c0fa8a4-df03-460c-9537-e5e576361fbc,Mario Delgado Carrillo,2023-02-07T15:05:02.407Z,7da517d5-4111-46d4-a985-a2b1f14aba9d,MORENA,Mexico,mx,206323119403212,Mario Delgado Carrillo,Facebook
+cc2f1a65-b711-43f7-963a-c2d654d2b080,Tu Prepa en Línea Unidev,2023-02-14T10:53:42.986Z,3ec5a48b-b00f-471d-b269-1077b3fbd398,ZZZ,Mexico,mx,114612040724292,Tu Prepa en Línea Unidev,Facebook
+75d77469-af2c-4894-b62d-23bfeff4d56c,Liverpool,2023-02-11T10:53:25.468Z,d0158391-f58a-401c-a56b-bd965c2cadd0,ZZZ,Mexico,mx,140142041216,Liverpool,Facebook
+2f66bbe8-b198-4c9a-84c4-b0ac9fbddff9,Prepa en Linea desde casa SEP,2023-02-07T15:05:03.396Z,253ca595-6044-4adc-8900-540699623eed,ZZZ,Mexico,mx,103395775997425,Prepa en Linea desde casa SEP,Facebook
+217e282d-bc30-4a8c-bd53-d3489de81cd4,Preparatoria SEP en línea México,2023-02-07T15:05:04.107Z,97430299-2af0-4add-9c7d-21c64b2dc063,ZZZ,Mexico,mx,100439725731012,Preparatoria SEP en línea México,Facebook
+3c56e601-fee4-4007-89d9-2e1cb226a14a,Preparatoria SEP Virtual,2023-02-21T10:53:36.652Z,0e135429-c6aa-4162-a556-2a091c0b2eb3,ZZZ,Mexico,mx,104198335842437,Preparatoria SEP Virtual,Facebook
+c5f6e53e-e8a1-47de-8242-f56ab8c0ab4e,,2023-03-27T10:53:42.273Z,98c57036-91c9-4a29-bfa8-a03defe01529,ZZZ,Mexico,mx,121441050889181,,Facebook
+9c8c581c-6559-414b-ae38-a1c202acc9a5,Preparatoria en línea México SEP,2023-02-26T10:53:48.303Z,a56e2733-9ea2-4a42-9c01-af4fdba8c52e,ZZZ,Mexico,mx,106521845216893,Preparatoria en línea México SEP,Facebook
+bda6119f-de6e-4f27-a6ce-c933163dbb33,Preparatoria México SEP en línea,2023-02-28T10:53:51.964Z,2413cc7d-5066-49cd-bf7f-919ab03ac23e,ZZZ,Mexico,mx,104194908706490,Preparatoria México SEP en línea,Facebook
+308e4d98-b1f9-4fb1-9517-858cc312fec2,irenehidalgodemora,2023-03-07T10:53:41.256Z,fd7f3b66-1d6d-4f76-89ff-a84af6ca7d3d,ZZZ,Mexico,mx,100919691720154,irenehidalgodemora,Facebook
+f14afc53-5a8a-46a0-b9fa-c3b916b53283,Legal Stage,2023-03-08T10:53:37.944Z,d7dddd80-3899-4208-bce0-00125c0c9618,ZZZ,Mexico,mx,111320930750571,Legal Stage,Facebook
+7f225118-d696-4dcd-84f0-901a34413184,Universidad UNIDEV,2023-03-08T15:22:36.826Z,2083a955-fa41-455c-a8df-6b5e5258eadb,ZZZ,Mexico,mx,103604921867642,Universidad UNIDEV,Facebook
+51e9ed54-7aca-4baf-8814-da4c1408e18c,Les Fleurs Mx,2023-03-12T10:53:41.883Z,da3e7d6c-8372-47fd-af32-612914fde551,ZZZ,Mexico,mx,183987752202379,Les Fleurs Mx,Facebook
+59977194-673c-4515-857d-0d39ce9b8337,Preparatoria Desde Casa SEP,2023-02-07T15:05:04.245Z,a8d40e74-f867-44c6-a89f-f7ef52f2c40b,ZZZ,Mexico,mx,109610531312367,Preparatoria Desde Casa SEP,Facebook
+798c34ba-19be-40da-8d92-4bb32a6e4899,Preparatoria virtual SEP desde casa,2023-02-07T15:05:03.867Z,4e6d2b83-6db8-47d0-bfb9-55f281a9a676,ZZZ,Mexico,mx,115896348052800,Preparatoria virtual SEP desde casa,Facebook
+a825ceae-ba48-4685-bd97-003e4f50464f,Preparatoria en Línea SEP,2023-02-07T15:05:04.090Z,b52d9a18-628a-4ab1-bdc8-41b070261a63,ZZZ,Mexico,mx,106307612088667,Preparatoria en Línea SEP,Facebook
+bc2beb3e-8e4b-4ae2-881b-6909512ebceb,Preparatoria desde casa SEP,2023-02-07T15:05:04.206Z,6cdbe20b-ecea-4bcb-993a-090c92dfa6a1,ZZZ,Mexico,mx,102428026076286,Preparatoria desde casa SEP,Facebook
+f7a72fe5-ad8b-4bdf-b1a3-e8cd45eaf263,Preparatoria en línea SEP México,2023-02-07T15:05:04.859Z,144e73b2-f976-4533-be53-5e60482aa9fd,ZZZ,Mexico,mx,104943798608724,Preparatoria en línea SEP México,Facebook
+23ef8141-8a5a-4393-9580-c1c7f932648f,Latin Alternative Music Conference (LAMC),2023-04-10T10:53:00.275Z,27016361-7f88-463e-a7a8-2862068fed3a,ZZZ,Mexico,mx,91838326199,Latin Alternative Music Conference (LAMC),Facebook
+cc5bec19-f02c-43a1-928c-833ff8ca1c34,Livesolid В,2023-02-28T10:53:49.826Z,8518f01e-a8d4-48bd-b778-41b73e9d6c63,ZZZ,Mexico,mx,100923012932824,Livesolid В,Facebook
+25e3320a-4ed2-44cd-8001-d63906d69f04,Save the Children México,2023-02-07T15:05:02.296Z,26658334-fcd0-47a9-87d2-5eee82fd77d7,ZZZ,Mexico,mx,109634395756375,Save the Children México,Facebook
+cb6a8fa1-462f-4ef1-abb9-881ae6e34120,Preparatoria en línea México,2023-03-08T14:43:15.559Z,7010342a-6213-4d91-ab46-2673d0970bd6,ZZZ,Mexico,mx,100264525710986,Preparatoria en línea México,Facebook
+f38dd1c6-64ca-4dca-92e0-4868bb181612,La Hamburguesería,2023-03-12T10:53:40.643Z,f158f1e2-f419-471b-a927-142ad76951cc,ZZZ,Mexico,mx,439437419554867,La Hamburguesería,Facebook
+f76f2f77-d58f-48ec-87e2-e3e5bad97df3,,2023-03-12T10:53:41.868Z,8af6bf1c-b7bb-4e07-bf83-26fcacc75dfd,ZZZ,Mexico,mx,106933042327436,,Facebook
+9fc17c39-1a9e-4f3e-9a04-f3b30572c35e,Prepa en línea SEP Unidev,2023-03-13T10:53:30.715Z,66426eed-1ee7-425f-ad67-4daaf410d5ae,ZZZ,Mexico,mx,101139119583442,Prepa en línea SEP Unidev,Facebook
+0f073b98-0ff7-4678-b27d-36a34a781625,Prepa En Línea SEP,2023-03-15T10:53:48.238Z,74c585e6-3036-44c0-ac78-b61b2dee9ca1,ZZZ,Mexico,mx,110929128613594,Prepa En Línea SEP,Facebook
+ff2334fb-1501-4930-a10f-24f0872449bf,Prepa para todos Unidev,2023-03-21T10:53:20.556Z,e7c732a4-225c-445d-8be9-2adbf4b1e93f,ZZZ,Mexico,mx,104677602556872,Prepa para todos Unidev,Facebook
+e5c41c82-c1c1-4099-b617-c00c515539b9,,2023-03-27T10:53:41.842Z,6da702a9-80ea-4630-9277-fe251a7393bd,ZZZ,Mexico,mx,107713928940320,,Facebook
+3f4a609c-4ab0-4524-af58-d73964c9360a,,2023-03-27T10:53:41.842Z,13d1eee2-bb72-4a5f-82b3-1b9e97b94df7,ZZZ,Mexico,mx,108326765545718,,Facebook
+8009eb2a-80c4-4b50-9ce4-249856d703e0,UNIDEV,2023-02-07T15:05:03.336Z,619db3c0-3a0d-4eee-bf0e-6d2ff954c39b,ZZZ,Mexico,mx,101701991930418,UNIDEV,Facebook
+e1639475-f336-4ea8-b9e2-04b0ac677e1d,Innovación Agrícola,2023-09-15T04:06:08.062Z,ed479f32-553a-42d1-9664-9ebbbd6f0789,ZZZ,Mexico,mx,187980247895954,Innovación Agrícola,Facebook
+3570cf80-e495-4827-9ce1-76cdcaa1cbf7,Prepa En Linea SEP,2023-02-07T15:05:03.488Z,5b467dc6-fb8e-48bc-a313-f5e4a8275578,ZZZ,Mexico,mx,138016565116389,Prepa En Linea SEP,Facebook
+b0714eaa-a23e-407c-b176-ba145a311795,Bachillerato en línea,2023-02-26T10:53:48.366Z,089257cd-3c1f-4183-be02-872d7f41732b,ZZZ,Mexico,mx,112062751813437,Bachillerato en línea,Facebook
+5aaefc7d-0853-4f6a-8b32-5641950849c6,Preparatoria en linea México bachillerato,2023-02-27T10:53:43.496Z,403e783a-e207-4bfb-8411-24ef29118a82,ZZZ,Mexico,mx,102784292264814,Preparatoria en linea México bachillerato,Facebook
+898d84fa-8157-4c3c-9517-432e8f9259f0,Preparatoria desde casa SEP,2023-02-14T10:53:43.034Z,c4ade100-cfed-454c-9c08-0bec0ba865f2,ZZZ,Mexico,mx,107566212208826,Preparatoria desde casa SEP,Facebook
+6a4003df-13bd-4b4d-bc82-7843bf63ceb3,Preparatoria SEP en Línea,2023-02-07T15:05:03.587Z,b2b13467-768d-448b-bc13-2cdde81a75ec,ZZZ,Mexico,mx,112252053650029,Preparatoria SEP en Línea,Facebook
+8d63e33e-28f6-4059-b1dc-3ad32248e673,Preparatoria SEP en línea,2023-02-07T15:05:03.521Z,112971b6-4a4d-4734-aa63-22c4b0076a2a,ZZZ,Mexico,mx,106178698930897,Preparatoria SEP en línea,Facebook
+2e0c4668-488e-4f11-b71e-eb188937fa43,Preparatoria en línea Mexico,2023-02-16T10:53:38.719Z,27234ef2-82e8-4d8f-91de-ef5f9834dd80,ZZZ,Mexico,mx,106034232292980,Preparatoria en línea Mexico,Facebook
+7059cf05-e08b-482c-b419-1fdd78f01887,10 Tooba,2023-03-07T10:53:41.259Z,20289423-cf36-4cbc-81ab-529566494dc5,ZZZ,Mexico,mx,1488749548049030,10 Tooba,Facebook
+3e004fce-6c4d-464b-af2a-d9ad379aa840,Greenpeace México,2023-02-07T15:05:02.299Z,8efe6bb8-aadc-41ed-9d9f-6b1ec37f96d2,ZZZ,Mexico,mx,56713285274,Greenpeace México,Facebook
+3e7e8a3a-966c-4a25-b5e0-a89e03e46313,Leaf.foods,2023-03-08T17:04:13.827Z,3e1fc2c2-133c-4d06-8bc9-1b65d43efbca,ZZZ,Mexico,mx,107596884009577,Leaf.foods,Facebook
+7b29f0ff-9a2d-48e2-9743-c0f34f9e6c3d,Preparatoria desde casa SEP,2023-03-11T10:53:43.692Z,5d8e1a1e-f1cd-4030-ba56-533d88dbe6f6,ZZZ,Mexico,mx,101360672304967,Preparatoria desde casa SEP,Facebook
+9a6441ad-324b-47f9-af82-4b857cb2147d,Preparatoria en línea en 6 meses SEP,2023-03-13T10:53:29.489Z,c5a21e42-e5a8-48c2-980c-be79f289c622,ZZZ,Mexico,mx,109152714780062,Preparatoria en línea en 6 meses SEP,Facebook
+e72f4919-af26-4360-9598-fc4c0f0896bb,Bachillerato virtual SEP,2023-03-13T10:53:29.999Z,2fba2539-5f5d-4c4c-a355-43bcbc703b56,ZZZ,Mexico,mx,106645559043162,Bachillerato virtual SEP,Facebook
+9a9f3864-ae48-4e7b-b5e7-f6e48dfe6fab,Preparatoria 4 meses SEP,2023-03-21T10:53:20.476Z,582e7601-d9e6-481f-88a0-53b9e2ae010d,ZZZ,Mexico,mx,113614754985252,Preparatoria 4 meses SEP,Facebook
+484266c4-f834-4b70-9a7a-a31ad18f0e81,Unidev Preparatoria 6 meses en línea Sep,2023-03-21T10:53:19.823Z,7cf9f49e-a5c8-4f57-835b-2059593d9251,ZZZ,Mexico,mx,102613642169931,Unidev Preparatoria 6 meses en línea Sep,Facebook
+7f6464d9-6d95-4683-be4c-a62b6623f928,Unidev Bachillerato en Línea,2023-04-04T10:53:41.720Z,3fc41b52-dea8-4abb-bdd4-3e3ecae8b94a,ZZZ,Mexico,mx,104858172573158,Unidev Bachillerato en Línea,Facebook
+044ab8a2-1200-409a-98c9-575a40405d2c,Preparatoria SEP en línea,2023-02-07T15:05:04.181Z,e08053fc-3a61-4d52-895a-ee1445c7dd84,ZZZ,Mexico,mx,100905166136342,Preparatoria SEP en línea,Facebook
+bf42d17b-0864-4634-a76b-5a40960ad232,Preparatoria en casa unidev,2023-02-07T15:05:03.648Z,39937c87-9f21-423d-a580-29cec83a9e5b,ZZZ,Mexico,mx,110239881352852,Preparatoria en casa unidev,Facebook
+e1037ea0-0213-4575-adb6-2216a3aaa1f6,Preparatoria Virtual Unidev,2023-02-07T15:05:04.378Z,7487e9f3-da6f-4fea-b7a0-ef902f274fd4,ZZZ,Mexico,mx,108086911387918,Preparatoria Virtual Unidev,Facebook
+7eb0c38f-e2e7-4c08-8cde-e93397d26510,Museo Iconográfico del Quijote,2023-09-08T05:07:47.927Z,d3177e61-4f06-442e-8832-9a9f9bc25ba4,ZZZ,Mexico,mx,434473639950078,Museo Iconográfico del Quijote,Facebook
+f468e3c9-692c-4c1c-9728-8dae48b61350,Preparatoria en línea SEP,2023-03-08T14:43:16.007Z,9b45ba69-a165-4e52-8bf3-3c3c584fb66e,ZZZ,Mexico,mx,108298965311241,Preparatoria en línea SEP,Facebook
+0303fff5-c29b-4c30-a0e9-42cc92113b8d,Maelstrom,2023-03-08T15:03:08.354Z,6f3ed639-1b74-4bc3-8f41-42f30cf2ef8d,ZZZ,Mexico,mx,105482244193802,Maelstrom,Facebook
+dc6e2e38-904a-4c30-9ced-c2d3a954b15e,,2023-03-12T10:53:41.886Z,ffe49258-b217-4315-96f3-c78232e2ca74,ZZZ,Mexico,mx,113571298344489,,Facebook
+dd08df25-1145-449c-b29b-82b49812c1b0,L'Beauté,2023-03-12T10:53:41.412Z,00ddfa03-682d-4fa3-93e3-db5009ad4c82,ZZZ,Mexico,mx,1778941179091868,L'Beauté,Facebook
+e320cc31-f299-4092-9ae3-daa55f4d7100,Preparatoria en línea Unidev SEP,2023-03-15T10:53:49.000Z,e5f00430-a2d4-4a45-87f1-d2b6d68c12d3,ZZZ,Mexico,mx,101326309433728,Preparatoria en línea Unidev SEP,Facebook
+4bcf63f1-146c-4e04-bbed-be6a41eec479,Termina tu preparatoria desde casa SEP,2023-03-15T10:53:49.112Z,bff4c748-ec0e-43ce-aca6-aa063878bb4e,ZZZ,Mexico,mx,100891089041335,Termina tu preparatoria desde casa SEP,Facebook
+f930d6f9-2722-43f7-a6df-545cdddf182a,,2023-03-27T10:53:41.856Z,cf8026f0-98b3-4e23-bd63-eb70ffb1ad63,ZZZ,Mexico,mx,100292189692498,,Facebook
+b38fe425-b81a-419f-b811-4296f8cf233e,Preparatoria SEP Virtual,2023-03-28T10:53:29.537Z,2e748afb-9d7b-46ab-8873-73747322e3ec,ZZZ,Mexico,mx,116206710188098,Preparatoria SEP Virtual,Facebook
+6bc0baeb-38f9-4c20-993a-f4bca83dc9ca,Preparatoria en 16 clases,2023-04-09T10:53:31.113Z,10c39115-1740-4262-9383-235ea6ff4879,ZZZ,Mexico,mx,112856285104160,Preparatoria en 16 clases,Facebook
+5f440cf1-de44-45cd-9787-db43f785a86f,Preparatoria desde casa,2023-04-04T10:53:41.402Z,6bad92a6-c430-4ee8-8913-618fbf938be1,ZZZ,Mexico,mx,106092085781613,Preparatoria desde casa,Facebook
+c95b1aaa-9b33-453f-a2ad-03072e03764c,Escuela Preparatoria en Línea,2023-04-12T10:53:06.706Z,b63acf79-2717-4897-af74-bc8a350a7a24,ZZZ,Mexico,mx,103711202697810,Escuela Preparatoria en Línea,Facebook
+282d6bb3-09ad-45f6-968d-32223b76a021,Preparatoria SEP Virtual Unidev México,2023-04-16T15:05:45.889Z,7074e1f1-6761-4309-b5e7-28aff8794df3,ZZZ,Mexico,mx,101436489271308,Preparatoria SEP Virtual Unidev México,Facebook
+892700e0-55eb-45af-9a85-734d53fa0b59,Prepa en casa SEP mx,2023-04-21T06:53:37.468Z,e0e6b595-a807-487f-960f-c0118921ed29,ZZZ,Mexico,mx,101809376164183,Prepa en casa SEP mx,Facebook
+e1abb372-3fbc-4df1-935a-ff5ad7a41f2f,,2023-04-23T06:53:03.487Z,7c240e11-f478-45fb-84ca-0e3023364109,ZZZ,Mexico,mx,103297869418756,,Facebook
+f45c2eb4-a241-4a68-90b5-f8cef6e7655c,Bachillerato en línea Unidev,2023-04-23T06:53:03.494Z,a98a7582-79ab-48a2-8975-5ea8e32fd15e,ZZZ,Mexico,mx,101924738980276,Bachillerato en línea Unidev,Facebook
+8f401150-9c6e-48be-a329-290ff48c71dc,,2023-04-23T06:53:03.485Z,7b711a3e-d972-4e09-9c41-7bcfc6d9b21d,ZZZ,Mexico,mx,109564738366720,,Facebook
+69521837-036c-4951-88e9-8e18fcb4d8f9,Unidev prepa en línea - SEP,2023-04-23T06:53:03.944Z,19af8167-b978-402f-bfb2-e6dadaa07de3,ZZZ,Mexico,mx,108039991795197,Unidev prepa en línea - SEP,Facebook
+36a6b32c-56c5-4133-ac2b-ac7bbf65fbdd,Preparatoria SEP en línea,2023-04-25T06:53:14.789Z,732a8cfc-ae9c-499a-bf58-dba6e76664f3,ZZZ,Mexico,mx,102221572435020,Preparatoria SEP en línea,Facebook
+b8c1675a-dfb7-466d-acc4-faf49d5a085d,Preparatoria SEP en 4 meses,2023-04-25T06:53:14.538Z,0f238bc0-e82e-4ce9-9cd3-19bbef01bc0a,ZZZ,Mexico,mx,131213982452475,Preparatoria SEP en 4 meses,Facebook
+29d64e1b-3f72-441c-8431-459aa8f5fc0d,Preparatoria SEP en línea México,2023-04-25T06:53:14.825Z,d13cd13b-a806-437a-99f2-78889c86ee17,ZZZ,Mexico,mx,101627802752290,Preparatoria SEP en línea México,Facebook
+2248f222-418d-4a89-9dde-c6c41402a1c6,Le' Grille,2023-04-26T06:53:39.529Z,e49de916-eaa7-4279-9bb8-21f82546b1e3,ZZZ,Mexico,mx,1406669982967714,Le' Grille,Facebook
+18b31ebf-5a66-451c-a055-253b481d0469,Preparatoria en Línea SEP México,2023-04-26T06:53:40.329Z,f055212a-a96b-45bc-b5f2-b8ed4f4afb9e,ZZZ,Mexico,mx,101959322200026,Preparatoria en Línea SEP México,Facebook
+997bd621-344b-4beb-a009-b5a934434915,Crédito Automotriz Metepec,2023-04-29T06:53:24.600Z,483a104b-b2ab-4bfa-a42f-ae58cf12ae4f,ZZZ,Mexico,mx,107199865557814,Crédito Automotriz Metepec,Facebook
+260825ea-b9cd-4c6d-bf94-4398ab4945dd,556015884890434,2023-04-30T06:53:05.254Z,66c5a7f3-230d-4e51-9e19-9e5140218af4,ZZZ,Mexico,mx,105015372572353,556015884890434,Facebook
+aeee360a-9269-4d72-ae6f-70f90f82a364,agrícola IV,2023-10-17T05:07:46.623Z,43396c52-5e2e-496a-9c39-5d3d0141cf4c,ZZZ,Mexico,mx,110840088759719,agrícola IV,Facebook
+de4df609-3d33-4dc8-b36f-730bd584b75f,Global Energy Solutions,2023-05-02T06:53:27.828Z,cc30f7b9-f99f-4cf0-a7d5-b86fa94328bf,ZZZ,Mexico,mx,301246150352955,Global Energy Solutions,Facebook
+2160e754-174d-4c44-ba05-23bb3504fb25,Fundación de Parques y Museos de Cozumel,2023-09-15T04:05:38.039Z,c29be52a-ed1c-4c32-b512-9ff54119efd3,ZZZ,Mexico,mx,613518775425409,Fundación de Parques y Museos de Cozumel,Facebook
+d2f560b8-303d-4c96-bd29-f1be7d4ae698,Museo de Ciencias Ambientales,2023-02-08T05:55:48.896Z,ec4c89be-7115-4fee-b9ea-c46a9238ba41,ZZZ,Mexico,mx,102539288557323,Museo de Ciencias Ambientales,Facebook
+b62c1857-a4c8-4045-af2e-adbeec44c371,MUPYP - Museo del Pulque y las Pulquerías,2023-09-25T05:07:40.782Z,0a36c660-2d1b-4c06-a60f-ecb2c1ebf0d5,ZZZ,Mexico,mx,2182609191961756,MUPYP - Museo del Pulque y las Pulquerías,Facebook
+99c594d3-70ae-4c13-b2c9-9feef9a7db17,Museo de Arte e Historia de Guanajuato,2023-03-10T10:53:31.364Z,6e438884-d8a1-417e-993b-aa3236513736,ZZZ,Mexico,mx,62769956534,Museo de Arte e Historia de Guanajuato,Facebook
+c390c117-557b-47b2-a17d-6167d761c7fb,Museo Francisco Cossío,2023-09-08T05:07:50.957Z,fb0ff0a4-9636-40a8-ae46-56a61d1b8cdf,ZZZ,Mexico,mx,204039117533,Museo Francisco Cossío,Facebook
+9560e632-9641-4116-adc0-33158b7bdf31,Museo de las Aves de México,2023-03-12T10:53:41.723Z,a5fa1110-aa18-4048-b319-b38fb7e11bda,ZZZ,Mexico,mx,104201752961368,Museo de las Aves de México,Facebook
+53d68884-9b72-44ee-80ff-742a843c3351,Museo de la Revolución en la Frontera,2023-04-17T08:06:56.624Z,8859cb23-e440-4f6a-98c6-f16fc78b344c,ZZZ,Mexico,mx,162789807094615,Museo de la Revolución en la Frontera,Facebook
+f8738f61-a4d0-4c42-bb13-ab0a5853776f,Cursos Talleres Museo Francisco Cossio,2023-11-18T05:07:39.682Z,f69d83ae-ccaf-4eff-b82f-0db6cbc74722,ZZZ,Mexico,mx,652977364721661,Cursos Talleres Museo Francisco Cossio,Facebook
+b77cadee-8313-49ba-b65b-9bcf768f0076,Preparatoria Virtual de México,2023-02-07T15:05:04.267Z,e5c0a5ae-c6f6-415b-938e-170ad163456a,ZZZ,Mexico,mx,102957089372885,Preparatoria Virtual de México,Facebook
+44c35381-1e45-4e5e-a1df-a7b10e35fbf9,Preparatoria SEP en línea,2023-02-17T10:53:28.757Z,7d370e1e-0b5c-45d3-b4de-46ee2b935a2f,ZZZ,Mexico,mx,113338548317991,Preparatoria SEP en línea,Facebook
+051b0332-30cc-4f66-9b5b-3fe4ec3b79e2,Preparatoria desde casa Unidev,2023-02-07T15:05:04.665Z,e90092a0-e2dc-425b-9f77-1d1a1deef98a,ZZZ,Mexico,mx,113316147663555,Preparatoria desde casa Unidev,Facebook
+75c82b6a-fb70-4a00-9352-cb94d181f119,Preparatoria SEP unidev,2023-02-07T15:05:04.590Z,28fafd99-4e7e-4c33-8a6f-0ed864aa8bc0,ZZZ,Mexico,mx,104769105815812,Preparatoria SEP unidev,Facebook
+3dd6d9f7-e5ab-445d-94e7-876ae65282f6,Maestría en Sexualidad y equidad de género,2023-02-22T10:53:53.040Z,a5c5bd80-58a8-42ae-948c-8f5737a5774f,ZZZ,Mexico,mx,629993857442422,Maestría en Sexualidad y equidad de género,Facebook
+f95842ef-9119-4d3f-8c65-a15c2ec3941e,Preparatoria en línea SEP,2023-02-13T10:53:49.153Z,1fff40fa-c940-4b6e-accc-44ad57e0c1e2,ZZZ,Mexico,mx,110265661245619,Preparatoria en línea SEP,Facebook
+5a179ca7-e492-495e-9df4-9d8ed51837db,Oxfam México,2023-02-07T15:05:02.466Z,25e2a818-c0d8-4fc4-8d24-83ef7838ec29,ZZZ,Mexico,mx,122404620204,Oxfam México,Facebook
+c49cf6ed-0efb-4434-af99-ab5f06a3a8fa,Preparatoria en línea SEP,2023-02-07T15:05:04.482Z,74e46c07-8c0f-4796-b178-50070e3e2cb3,ZZZ,Mexico,mx,110763055151832,Preparatoria en línea SEP,Facebook
+1b1fd465-fd31-492d-ac2e-aab4d95eb3c2,Preparatoria en linea SEP,2023-02-14T10:53:43.034Z,f42b14da-f2b0-4001-81ac-0db396638b88,ZZZ,Mexico,mx,100984402720642,Preparatoria en linea SEP,Facebook
+040cf8f1-00b1-4bc1-b5e1-2182931f0803,Environment+Energy Leader,2023-03-07T10:53:41.276Z,16f339ea-7e4f-42b9-9d28-146004799067,ZZZ,Mexico,mx,101199985696737,Environment+Energy Leader,Facebook
+071b1503-2ae6-4094-adec-620ac3052484,Legends Overlanding,2023-03-08T15:12:52.695Z,feff7980-5070-44f1-9e58-48661512be8a,ZZZ,Mexico,mx,100786288708462,Legends Overlanding,Facebook
+cfc79eca-bc65-48bc-af98-dcc72eae15a5,Preparatoria Unidev desde casa,2023-03-13T10:53:28.975Z,99e794d3-1d70-4c0b-86b2-ada548912c15,ZZZ,Mexico,mx,106037935750658,Preparatoria Unidev desde casa,Facebook
+cfc889eb-0081-4a5d-a155-3851044d81de,Bachillerato desde casa SEP,2023-03-13T10:53:29.109Z,7b5885f6-8007-4127-9601-0309b18ede91,ZZZ,Mexico,mx,109553455415879,Bachillerato desde casa SEP,Facebook
+647818b4-afdd-4394-b392-2e2879796294,Bachillerato en 4 meses SEP,2023-03-20T10:53:26.847Z,fcd962bd-434e-4c47-b7c6-48f669a92686,ZZZ,Mexico,mx,114643494909381,Bachillerato en 4 meses SEP,Facebook
+bd8996d0-7fe7-4508-b5bf-7aaf834a3175,Preparatoria en línea SEP desde casa,2023-02-07T15:05:04.221Z,d2cd3b80-b51d-4cc0-918a-cd95c93795c3,ZZZ,Mexico,mx,101243359536311,Preparatoria en línea SEP desde casa,Facebook
+30c5e256-301c-4e7e-b9cf-580463b88f34,Preparatoria desde casa SEP México,2023-02-19T10:53:54.329Z,18d871df-3d6f-4382-8506-1a7cf22613fc,ZZZ,Mexico,mx,246706730601149,Preparatoria desde casa SEP México,Facebook
+0227f4c5-e961-4ee7-ab28-002ed3d4d450,Preparatoria en linea México,2023-02-07T15:05:04.817Z,a32c79c2-4e67-41a5-8166-ca89042d0ee5,ZZZ,Mexico,mx,109554947983964,Preparatoria en linea México,Facebook
+1f0e0963-f003-4e94-ac54-c3e9c225765c,Preparatoria SEP Unidev,2023-02-13T10:53:49.532Z,ef0c636a-4de8-4aad-a3dc-25d5a6c530be,ZZZ,Mexico,mx,103161774584402,Preparatoria SEP Unidev,Facebook
+84c69ca1-5e6c-47c9-8cc8-888494b3fe87,Living Waters Wellness Products,2023-02-28T10:53:52.140Z,2c5e82e6-9dcf-403e-a3bf-9f7a280f9a6b,ZZZ,Mexico,mx,110973334039367,Living Waters Wellness Products,Facebook
+370e2cb5-a0ee-4391-b79a-a158cd7d349e,Preparatoria en línea desde casa SEP,2023-03-08T15:12:52.578Z,22b1d54f-c4aa-4aa8-9422-90678773698b,ZZZ,Mexico,mx,104262592557526,Preparatoria en línea desde casa SEP,Facebook
+af63eee9-3f7e-4ae5-b099-792d3ccff2c4,Liz,2023-03-12T10:53:42.106Z,31d844db-6b7d-4087-a82d-343ddfd5d1ac,ZZZ,Mexico,mx,100650211340799,Liz,Facebook
+3ca71d10-33f8-44a2-aa8e-a3abf5b38405,Bachillerato Unidev SEP,2023-03-14T10:53:19.400Z,6e34b4e3-fcb2-4ab4-a6ee-b4f95f8841c9,ZZZ,Mexico,mx,110703528634325,Bachillerato Unidev SEP,Facebook
+a62a0881-63a4-4e27-8d8f-625df944c142,Termina tu preparatoria en 4 meses SEP,2023-03-20T10:53:26.942Z,3b716c16-b893-4854-8d98-974cc9673355,ZZZ,Mexico,mx,117243477978474,Termina tu preparatoria en 4 meses SEP,Facebook
+b4164d2e-35a1-4c51-85ba-7dc60894d8c6,Prepa SEP Unidev,2023-03-27T10:53:42.416Z,073b3e47-eb28-490f-8fd8-6782892ddaa8,ZZZ,Mexico,mx,107573518096806,Prepa SEP Unidev,Facebook
+5e3387ef-2ea6-4d32-ab54-4ac8cad4669e,,2023-03-28T10:53:29.479Z,43b57696-877c-4faa-aff4-dbc67a007b94,ZZZ,Mexico,mx,119591381084317,,Facebook
